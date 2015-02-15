@@ -6,29 +6,98 @@ output: html_document
 bibliography: refs.bib
 ---
 
-Code for ploting diffreent forms of dispersal kernels and testing dispersal 
-model functions.  
+Code for ploting different forms of dispersal kernels and testing dispersal model functions.  
 
-Data refer to seed dispersal distances estimated by direct assignement from
-seed endocarp genotypes 
+Data refer to seed dispersal distances estimated by direct assignement from seed endocarp genotypes for *Prunus mahaleb*.
+  
+  
+#### Data input
 
-#### Plotting the kernels
-
-```{r plain, fig.height=5, fig.width=8}
-# Plain frequency distribution of dispersal distances.
+```{r data, message=FALSE,warning=FALSE}
+# Input data.
 require(MASS)
+require(downloader)
+require(ismev)
+require(adehabitatHS)               # For simulations of Levy walks
+
+# Prunus mahaleb dispersal distances data. -------------------------------
+# Get the data from my GitHub repository.
+link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/distances.txt"
+file = "distances.txt"
+if(!file.exists(file)) download(link, file, mode = "wb")
+assdist <- read.table(file, sep = "\t", dec = ",", 
+    header = TRUE, na.strings="NA")
+str(assdist)
+
+```
+
+#### Raw kernel
+
+```{r plot_hist}
+# Plain frequency distribution of dispersal distances. -------------------
 x<-assdist$dist
 truehist(x,xlim=c(0,20000),prob=F,h=100,col=1,xlab="Distance (m)",ylab="Probability",ymax=350)
 rug(x,side=1,col="red")
 
 ```
 
+#### Simulation of Lévy pattern
+
+```{r levy, fig.height=5, fig.width=8}
+# Lévy distribution. -----------------------------------------------------
+# dd<- abs(rnorm(1000, mean = 32.7, sd = 415)) # Normal distrib.
+# dd<- rweibull(1000, shape= 1, scale = 3.5)   # Weibull distrib.
+# dd<- rgamma(1000, scale= 100, shape= 10)     # Gamma distrib.
+                                               # req. adehabitatHS
+dd<- as.data.frame(simm.levy(1:1000, mu = 1.5, burst = "mu = 1.5")) 
+dd<- na.omit(dd$dist)
+
+# Sourcing the kernel function code from GitHub.
+link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/functions/mykernel.R"
+file = "./code/mykernel.R"
+if(!file.exists(file)) download(link, file, mode = "wb")
+source(file)
+
+# With function mykernel.
+mykernel(dd, bw= 20, h= 200)     # Extract the distances vector
+ddtrunc=dd[dd<3000]              # Truncate below a distance
+mykernel(ddtrunc, bw= 10, h= 20) # Extract the distances vector
+
+```
 
 
+#### Analysis of generalized extreme value (GEV) distributions
 
-#### Fitting models
+```{r GEV}
+# Prunus mahaleb dispersal distances data. -------------------------------
+source("./code/GEV_functions.R")
 
-```{r, echo=FALSE}
+dd<- assdist$dist
+# With function mykernel.
+mykernel(dd, bw= 100, h= 50) # Extract the distances vector
+gevdd<-gev.fit(dd)
+
+# Notice the output:
+# ∗ $conv gives a value of zero (in row[1] of the output), which 
+#   indicates success- full convergence, i.e. no errors in fitting;
+# In the case of the full dispersal kernel I get convergence errors!!
+# ∗ $nllh shows the negative (maximised) log–likelihood;
+# ∗ $mle shows the maximum likelihood estimates for μ, σ and ξ respectively;
+# ∗ $se gives the associated standard errors for these parameters.
+
+gev.diag(gevdd)
+
+# Truncate events after 1200 m to get the within-stand dispersal events
+ddtrunc=dd[dd<1200]
+mykernel(ddtrunc, bw= 10, h= 10) # Extract the distances vector
+gevdd<-gev.fit(ddtrunc)
+gev.diag(gevdd)
+gev.ret(ddtrunc,100)
+# If we want to construct a confidence interval for q100, we are better off using the method of profile–likelihood as described in Section 1.2.8. We can use the function gev.prof(fit,period,lower-bound, upper-bound). This com- mand is slightly unstable, and relies on an appropriate choice of the bounds for the profile–likelihood. For the Boston annual maxima, the following works well for the 100–year level:
+gev.prof(gevdd,100,60,150)
+
+# Note that this enables us to read off the 95% confidence interval (the default) for q100. Suppose we wanted a 99% interval we would use:
+gev.prof(gevdd,100,60,150,conf=0.99)
 
 ```
 
