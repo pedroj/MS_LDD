@@ -1,0 +1,36 @@
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Bacles \emph{et~al.}(2006)Bacles, Lowe \& Ennos}]{Bacles:2006kq}
+Bacles, C., Lowe, A. \& Ennos, R. (2006).
+\newblock Effective seed dispersal across a fragmented landscape.
+\newblock \emph{Science}, 311, 628.
+
+\bibitem[{Dyer \& Nason(2004)}]{Dyer04}
+Dyer, R.~J. \& Nason, J.~D. (2004).
+\newblock Population graphs: the graph theoretic shape of genetic structure.
+\newblock \emph{Molecular Ecology}, 13, 1713 -- 1727.
+
+\bibitem[{Nason \emph{et~al.}(1996)Nason, Herre \& Hamrick}]{Nason:1996}
+Nason, J., Herre, E. \& Hamrick, J. (1996).
+\newblock Paternity analysis of the breeding structure of strangler fig
+  populations: Evidence for substantial long-distance wasp dispersal.
+\newblock \emph{Journal of Biogeography}, 23, 501--512.
+
+\bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{E3.2543}
+Nason, J., Herre, E. \& Hamrick, J. (1998).
+\newblock The breeding structure of a tropical keystone plant resource.
+\newblock \emph{Nature}, 391, 685--687.
+
+\bibitem[{Stacy \emph{et~al.}(1996)Stacy, Hamrick, Nason, Hubbell, Foster \&
+  Condit}]{Stacy:1996vo}
+Stacy, E.~A., Hamrick, J.~L., Nason, J.~D., Hubbell, S.~P., Foster, R.~B. \&
+  Condit, R. (1996).
+\newblock Pollen dispersal in low-density populations of three neotropical tree
+  species.
+\newblock \emph{American Naturalist}, 148, 275--298.
+
+\end{thebibliography}

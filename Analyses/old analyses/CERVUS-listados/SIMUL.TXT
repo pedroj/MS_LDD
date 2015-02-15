@@ -1,0 +1,80 @@
+Cervus 1.0... Simulation of parentage analysis
+© Copyright The University of Edinburgh 1998
+
+Run completed on Saturday, June 3, 2000, at 02:00 pm
+
+
+**** Files ****
+
+Input
+  Allele frequency file:  prunus.alf
+    Number of loci:       9
+Output
+  Text file:              simul.txt
+  Simulation data file:   simul.sim
+
+
+**** Loci ****
+
+1    Fm001
+2    FmMg3
+3    Fm018
+4    Tt403
+5    TtE02
+6    TtMC5
+7    Hx406
+8    Hx402
+9    HxA05
+
+
+**** Parameters ****
+
+Input
+  Cycles:                                   1000
+  Number of candidate parents:              72
+  Proportion of candidate parents sampled:  0.980
+  Proportion of loci typed:                 1.000
+  Proportion of loci mistyped:              0.005
+Output
+  Relaxed confidence level:                 80.00%
+  Strict confidence level:                  95.00%
+
+
+**** Results - one parent known ****
+
+Table of Delta distributions:
+
+Outcome                       N        Mean Delta  Standard Deviation
+True parent most likely       810      2.99        2.15        
+Unrelated parent most likely  190      0.53        0.55        
+No most likely parent         0           
+Total                         1000
+
+Table of critical values and success rates:
+
+Confidence   Level(%)  Delta Criterion  Tests  Percentage
+Strict       95.00     0.78             700    70%
+Relaxed      80.00     0.00             1000   100%
+Unresolved                              0      0%
+
+
+**** Results - neither parent known ****
+
+Table of Delta distributions:
+
+Outcome                       N        Mean Delta  Standard Deviation
+True parent most likely       571      1.64        1.23        
+Unrelated parent most likely  429      0.60        0.55        
+No most likely parent         0           
+Total                         1000
+
+Table of critical values and success rates:
+
+Confidence   Level(%)  Delta Criterion  Tests  Percentage
+Strict       95.00     2.16             173    17%
+Relaxed      80.00     0.91             465    47%
+Unresolved                              535    54%
+
+********************************************************************************
+
+

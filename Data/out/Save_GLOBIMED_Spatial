@@ -1,0 +1,64 @@
+5 Feb 2004
+
+R > load(file.choose("prumap.RData"))
+R > ls()
+ [1] "dist"         "last.warning" "mmhab"        "pm.pp"        "prugeo"      
+ [6] "prumap"       "prumap.pp"    "sd9798"       "sd9899"       "sd9900"      
+[11] "sdl97"        "sdl98"        "sdl99"        "tt"          
+
+#	prumap: coordinates x y z, with z=1 for all datapoints
+R > attach(prumap)
+R > plot(x,y,pch=16)
+R > dist<-function(x1, y1, x2, y2)  sqrt((x2 - x1)^2 + (y2 - y1)^2)
+
+# function for distance to nearest neighbor
+R > r<-numeric(239)
+R > nn<-numeric(239)
+R > d<-numeric(239)
+R > for (i in 1:239) {
++ d<-0
++ for (k in 1:239) d[k]<-dist(x[i],y[i],x[k],y[k])
++ r[i]<-min(d[-i])
++ nn[i]<-which(d==min(d[-i]))
++ }
+
+# adds lines joining nearest neighbors
+R > for (i in 1:239) lines(c(x[i],x[nn[i]]),c(y[i],y[nn[i]]))
+
+# density/ha
+R > dens= (239/(400*600))*10000
+R > dens
+[1] 9.9583
+
+# expected distance to nearest neighbor
+R > expnndist= (sqrt(dens))/2
+R > expnndist
+[1] 1.5778
+
+# setting the region
+R > ppregion(xl = 0, xu = 400, yl = 0, yu = 650)
+
+# a plot of L(t) against distance
+R > plot(Kfn(prumap.pp,5),type="s",xlab="Distance",ylab="L(t)")
+# setting the envelope for K(t)
+R > lims<-Kenvl(10,100,Psim(239))
+
+# the plot of Ripley's K
+R > par(mfrow=c(1,2),pty="s")
+R > plot(prumap.pp,pch=16)
+R > plot(Kfn(prumap.pp,10),type="s",xlab="Distance",ylab="L(t)")
+R > lines(lims$x,lims$lower,lty=2)
+R > lines(lims$x,lims$upper,lty=2)
+
+# number of trees in 10 x 10 m squares
+R > attach(prumap)
+R > plot(x,y)
+R > xt<-cut(x,seq(0,400,10))
+R > yt<-cut(y,seq(0,650,10))
+R > count<-as.vector(table(xt,yt))
+R > table(count)
+count
+   0    1    2    3    4    5 
+2436  118   25   14    6    1 
+
+

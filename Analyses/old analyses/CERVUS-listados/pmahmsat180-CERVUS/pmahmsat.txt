@@ -1,0 +1,294 @@
+Cervus 1.0... Allele Frequency Analysis
+© Copyright The University of Edinburgh 1998
+
+Run completed on Thursday, April 19, 2001, at 08:53 pm
+
+
+**** Files ****
+
+Input
+  Genotype file:          pmahmsat.dat
+Output
+  Text file:              pmahmsat.txt
+  Allele frequency file:  pmahmsat.alf
+
+
+**** Loci ****
+
+1    A
+2    B
+3    C
+4    D
+5    E
+6    F
+7    G
+8    H
+9    I
+
+
+**** Locus A ****
+
+Number of alleles:                     7
+Number of individuals typed:           182
+  Heterozygotes:                       75
+  Homozygotes:                         107
+Observed heterozygosity:               0.412
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+114     8      8              0            0.0220     0.0802   
+122     58     44             7            0.1593     0.0857   
+124     265    69             98           0.7280     0.0520   
+126     26     22             2            0.0714     0.0828   
+130     2      2              0            0.0055     0.0791   
+132     4      4              0            0.0110     0.0795   
+134     1      1              0            0.0027     0.0790   
+
+Expected heterozygosity:               0.440
+Polymorphic information content (PIC): 0.406
+Average exclusion probability (1):     0.102
+Average exclusion probability (2):     0.245
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    0.22
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0271
+
+
+**** Locus B ****
+
+Number of alleles:                     9
+Number of individuals typed:           181
+  Heterozygotes:                       100
+  Homozygotes:                         81
+Observed heterozygosity:               0.552
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+177     11     9              1            0.0304     0.0711   
+179     183    75             54           0.5055     0.0685   
+187     25     15             5            0.0691     0.0734   
+191     31     15             8            0.0856     0.0742   
+193     8      6              1            0.0221     0.0705   
+195     69     53             8            0.1906     0.0775   
+201     1      1              0            0.0028     0.0691   
+205     17     13             2            0.0470     0.0721   
+207     17     13             2            0.0470     0.0721   
+
+Expected heterozygosity:               0.692
+Polymorphic information content (PIC): 0.661
+Average exclusion probability (1):     0.302
+Average exclusion probability (2):     0.487
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    7.33
+  Degrees of freedom:                  3
+Null allele frequency estimate:        0.1052
+
+
+**** Locus C ****
+
+Number of alleles:                     2
+Number of individuals typed:           182
+  Heterozygotes:                       65
+  Homozygotes:                         117
+Observed heterozygosity:               0.357
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+246     175    65             55           0.4808     0.0835   
+248     189    65             62           0.5192     0.0811   
+
+Expected heterozygosity:               0.501
+Polymorphic information content (PIC): 0.375
+Average exclusion probability (1):     0.125
+Average exclusion probability (2):     0.187
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    14.18
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1659
+
+
+**** Locus D ****
+
+Number of alleles:                     10
+Number of individuals typed:           182
+  Heterozygotes:                       90
+  Homozygotes:                         92
+Observed heterozygosity:               0.495
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+105     19     11             4            0.0522     0.0763   
+107     218    74             72           0.5989     0.0639   
+109     13     9              2            0.0357     0.0754   
+113     9      7              1            0.0247     0.0747   
+115     7      5              1            0.0192     0.0744   
+119     4      4              0            0.0110     0.0738   
+121     1      1              0            0.0027     0.0732   
+125     27     21             3            0.0742     0.0775   
+127     33     23             5            0.0907     0.0782   
+145     33     25             4            0.0907     0.0782   
+
+Expected heterozygosity:               0.616
+Polymorphic information content (PIC): 0.594
+Average exclusion probability (1):     0.236
+Average exclusion probability (2):     0.425
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    3.98
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1005
+
+
+**** Locus E ****
+
+Number of alleles:                     14
+Number of individuals typed:           181
+  Heterozygotes:                       102
+  Homozygotes:                         79
+Observed heterozygosity:               0.564
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+147     2      2              0            0.0055     0.0685   
+149     12     12             0            0.0331     0.0704   
+155     1      1              0            0.0028     0.0683   
+161     1      1              0            0.0028     0.0683   
+163     3      3              0            0.0083     0.0687   
+169     63     41             11           0.1740     0.0764   
+171     6      6              0            0.0166     0.0693   
+173     2      2              0            0.0055     0.0685   
+175     74     46             14           0.2044     0.0769   
+177     2      2              0            0.0055     0.0685   
+179     3      1              1            0.0083     0.0687   
+185     168    66             51           0.4641     0.0706   
+187     13     11             1            0.0359     0.0706   
+189     12     10             1            0.0331     0.0704   
+
+Expected heterozygosity:               0.711
+Polymorphic information content (PIC): 0.673
+Average exclusion probability (1):     0.312
+Average exclusion probability (2):     0.493
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    18.21
+  Degrees of freedom:                  3
+Null allele frequency estimate:        0.1211
+
+
+**** Locus F ****
+
+Number of alleles:                     2
+Number of individuals typed:           182
+  Heterozygotes:                       54
+  Homozygotes:                         128
+Observed heterozygosity:               0.297
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+235     278    54             112          0.7637     0.0563   
+239     86     54             16           0.2363     0.0935   
+
+Expected heterozygosity:               0.362
+Polymorphic information content (PIC): 0.296
+Average exclusion probability (1):     0.065
+Average exclusion probability (2):     0.148
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    5.17
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0976
+
+
+**** Locus G ****
+
+Number of alleles:                     4
+Number of individuals typed:           182
+  Heterozygotes:                       80
+  Homozygotes:                         102
+Observed heterozygosity:               0.440
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+98      113    47             33           0.3104     0.0846   
+100     117    53             32           0.3214     0.0844   
+102     131    57             37           0.3599     0.0835   
+106     3      3              0            0.0082     0.0775   
+
+Expected heterozygosity:               0.673
+Polymorphic information content (PIC): 0.599
+Average exclusion probability (1):     0.228
+Average exclusion probability (2):     0.379
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    43.28
+  Degrees of freedom:                  3
+Null allele frequency estimate:        0.2085
+
+
+**** Locus H ****
+
+Number of alleles:                     8
+Number of individuals typed:           181
+  Heterozygotes:                       114
+  Homozygotes:                         67
+Observed heterozygosity:               0.630
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+124     5      5              0            0.0138     0.0638   
+138     50     32             9            0.1381     0.0706   
+140     29     25             2            0.0801     0.0681   
+142     59     41             9            0.1630     0.0714   
+148     137    59             39           0.3785     0.0700   
+150     4      4              0            0.0110     0.0636   
+152     74     58             8            0.2044     0.0722   
+154     4      4              0            0.0110     0.0636   
+
+Expected heterozygosity:               0.765
+Polymorphic information content (PIC): 0.729
+Average exclusion probability (1):     0.374
+Average exclusion probability (2):     0.554
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    19.31
+  Degrees of freedom:                  3
+Null allele frequency estimate:        0.1014
+
+
+**** Locus I ****
+
+Number of alleles:                     4
+Number of individuals typed:           182
+  Heterozygotes:                       71
+  Homozygotes:                         111
+Observed heterozygosity:               0.390
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+196     41     29             6            0.1126     0.0858   
+200     237    61             88           0.6511     0.0660   
+202     80     48             16           0.2198     0.0880   
+204     6      4              1            0.0165     0.0813   
+
+Expected heterozygosity:               0.516
+Polymorphic information content (PIC): 0.462
+Average exclusion probability (1):     0.136
+Average exclusion probability (2):     0.278
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    11.91
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1415
+
+
+**** Summary statistics ****
+
+Number of loci:                           9
+Number of individuals:                    182
+
+Locus       k   N     Hets  Homs  Hetz.  PIC    Excl(1)  Excl(2)  X2      v   Null freq
+A           7   182   75    107   0.440  0.406  0.102    0.245    0.22    1   0.0271   
+B           9   181   100   81    0.692  0.661  0.302    0.487    7.33    3   0.1052   
+C           2   182   65    117   0.501  0.375  0.125    0.187    14.18   1   0.1659   
+D           10  182   90    92    0.616  0.594  0.236    0.425    3.98    1   0.1005   
+E           14  181   102   79    0.711  0.673  0.312    0.493    18.21   3   0.1211   
+F           2   182   54    128   0.362  0.296  0.065    0.148    5.17    1   0.0976   
+G           4   182   80    102   0.673  0.599  0.228    0.379    43.28   3   0.2085   
+H           8   181   114   67    0.765  0.729  0.374    0.554    19.31   3   0.1014   
+I           4   182   71    111   0.516  0.462  0.136    0.278    11.91   1   0.1415   
+
+Mean number of alleles per locus:         6.67
+Mean proportion of individuals typed:     0.998
+Mean expected heterozygosity:             0.586
+Mean PIC:                                 0.533
+Total exclusionary power (first parent):  0.887351
+Total exclusionary power (second parent): 0.984366
+
+********************************************************************************
+
+

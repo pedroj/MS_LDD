@@ -1,0 +1,435 @@
+
+
+1
+
+
+
+Estimated Ln Prob of Data   = -12784.1
+
+
+Mean value of ln likelihood = -12761.0
+
+
+Variance of ln likelihood   = 46.1
+
+
+
+Estimated Ln Prob of Data   = -12783.9
+
+
+Mean value of ln likelihood = -12760.9
+
+
+Variance of ln likelihood   = 46.1
+
+
+
+Estimated Ln Prob of Data   = -12783.6
+
+
+Mean value of ln likelihood = -12760.1
+
+
+Variance of ln likelihood   = 46.9
+
+
+
+
+
+2
+
+
+
+Estimated Ln Prob of Data   = -11962.8
+
+
+Mean value of ln likelihood = -11839.8
+
+
+Variance of ln likelihood   = 246.0
+
+
+Mean value of alpha         = 0.1470
+
+
+
+
+Estimated Ln Prob of Data   = -11961.5
+
+
+Mean value of ln likelihood = -11839.7
+
+
+Variance of ln likelihood   = 243.5
+
+
+Mean value of alpha         = 0.1452
+
+
+
+
+
+Estimated Ln Prob of Data   = -11961.3
+
+
+Mean value of ln likelihood = -11840.3
+
+
+Variance of ln likelihood   = 242.1
+
+
+Mean value of alpha         = 0.1439
+
+
+
+
+
+3
+
+
+
+Estimated Ln Prob of Data   = -11577.1
+
+
+Mean value of ln likelihood = -11399.7
+
+
+Variance of ln likelihood   = 354.8
+
+
+Mean value of alpha         = 0.1143
+
+
+
+Estimated Ln Prob of Data   = -11533.4
+
+
+Mean value of ln likelihood = -11337.3
+
+
+Variance of ln likelihood   = 392.2
+
+
+Mean value of alpha         = 0.0858
+
+
+
+Estimated Ln Prob of Data   = -11533.5
+
+
+Mean value of ln likelihood = -11338.3
+
+
+Variance of ln likelihood   = 390.4
+
+
+Mean value of alpha         = 0.0846
+
+
+
+
+4
+
+
+
+Estimated Ln Prob of Data   = -11172.3
+
+
+Mean value of ln likelihood = -10926.6
+
+
+Variance of ln likelihood   = 491.4
+
+
+Mean value of alpha         = 0.0733
+
+
+
+
+Estimated Ln Prob of Data   = -11237.2
+
+
+Mean value of ln likelihood = -10946.8
+
+
+Variance of ln likelihood   = 580.8
+
+
+Mean value of alpha         = 0.0959
+
+
+
+
+Estimated Ln Prob of Data   = -12202.6
+
+
+Mean value of ln likelihood = -10952.6
+
+
+Variance of ln likelihood   = 2500.2
+
+
+Mean value of alpha         = 0.0691
+
+
+
+
+
+
+
+5
+
+
+
+Estimated Ln Prob of Data   = -10911.9
+
+
+Mean value of ln likelihood = -10608.2
+
+
+Variance of ln likelihood   = 607.5
+
+
+Mean value of alpha         = 0.0733
+
+
+
+
+Estimated Ln Prob of Data   = -10883.9
+
+
+Mean value of ln likelihood = -10611.7
+
+
+Variance of ln likelihood   = 544.3
+
+
+Mean value of alpha         = 0.0563
+
+
+
+
+Estimated Ln Prob of Data   = -10842.4
+
+
+Mean value of ln likelihood = -10589.7
+
+
+Variance of ln likelihood   = 505.4
+
+
+Mean value of alpha         = 0.0491
+
+
+
+
+6
+
+
+
+Estimated Ln Prob of Data   = -10639.7
+
+
+Mean value of ln likelihood = -10328.3
+
+
+Variance of ln likelihood   = 622.7
+
+
+Mean value of alpha         = 0.0502
+
+
+
+
+Estimated Ln Prob of Data   = -10681.5
+
+
+Mean value of ln likelihood = -10355.7
+
+
+Variance of ln likelihood   = 651.6
+
+
+Mean value of alpha         = 0.0437
+
+
+
+
+Estimated Ln Prob of Data   = -10624.9
+
+
+Mean value of ln likelihood = -10311.6
+
+
+Variance of ln likelihood   = 626.6
+
+
+Mean value of alpha         = 0.0486
+
+
+
+
+
+
+
+7
+
+
+
+Estimated Ln Prob of Data   = -10436.3
+
+
+Mean value of ln likelihood = -10093.1
+
+
+Variance of ln likelihood   = 686.4
+
+
+Mean value of alpha         = 0.0451
+
+
+
+
+
+Estimated Ln Prob of Data   = -10460.9
+
+
+Mean value of ln likelihood = -10109.8
+
+
+Variance of ln likelihood   = 702.3
+
+
+Mean value of alpha         = 0.0458
+
+
+
+
+Estimated Ln Prob of Data   = -10416.3
+
+
+Mean value of ln likelihood = -10050.5
+
+
+Variance of ln likelihood   = 731.6
+
+
+Mean value of alpha         = 0.0457
+
+
+
+8
+
+
+
+Estimated Ln Prob of Data   = -10218.2
+
+
+Mean value of ln likelihood = -9876.9
+
+
+Variance of ln likelihood   = 682.6
+
+
+Mean value of alpha         = 0.0402
+
+
+
+
+
+Estimated Ln Prob of Data   = -10408.9
+
+
+Mean value of ln likelihood = -10035.2
+
+
+Variance of ln likelihood   = 747.3
+
+
+Mean value of alpha         = 0.0382
+
+
+
+
+Estimated Ln Prob of Data   = -10295.7
+
+
+Mean value of ln likelihood = -9910.5
+
+
+Variance of ln likelihood   = 770.3
+
+
+Mean value of alpha         = 0.0411
+
+
+
+
+9
+
+
+
+Estimated Ln Prob of Data   = -10051.6
+
+
+Mean value of ln likelihood = -9647.4
+
+
+Variance of ln likelihood   = 808.4
+
+
+Mean value of alpha         = 0.0401
+
+
+
+
+Estimated Ln Prob of Data   = -10184.8
+
+
+Mean value of ln likelihood = -9755.2
+
+
+Variance of ln likelihood   = 859.1
+
+
+Mean value of alpha         = 0.0406
+
+
+
+
+10
+
+
+
+Estimated Ln Prob of Data   = -9953.9
+
+
+Mean value of ln likelihood = -9504.3
+
+
+Variance of ln likelihood   = 899.3
+
+
+Mean value of alpha         = 0.0417
+
+
+
+
+Estimated Ln Prob of Data   = -10062.0
+
+
+Mean value of ln likelihood = -9610.2
+
+
+Variance of ln likelihood   = 903.5
+
+
+Mean value of alpha         = 0.0377
+
+
+
+
+
+
+
+

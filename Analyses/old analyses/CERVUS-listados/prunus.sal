@@ -1,0 +1,288 @@
+Cervus 1.0... Allele Frequency Analysis
+© Copyright The University of Edinburgh 1998
+
+Run completed on Saturday, June 3, 2000, at 01:57 pm
+
+
+**** Files ****
+
+Input
+  Genotype file:          Prunus.TXT
+Output
+  Text file:              prunus.sal
+  Allele frequency file:  prunus.alf
+
+
+**** Loci ****
+
+1    Fm001
+2    FmMg3
+3    Fm018
+4    Tt403
+5    TtE02
+6    TtMC5
+7    Hx406
+8    Hx402
+9    HxA05
+
+
+**** Locus Fm001 ****
+
+Number of alleles:                     6
+Number of individuals typed:           72
+  Heterozygotes:                       30
+  Homozygotes:                         42
+Observed heterozygosity:               0.417
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+114     4      4              0            0.0278     0.1275   
+122     18     16             1            0.1250     0.1344   
+124     104    26             39           0.7222     0.0837   
+126     14     10             2            0.0972     0.1329   
+130     1      1              0            0.0069     0.1255   
+132     3      3              0            0.0208     0.1269   
+
+Expected heterozygosity:               0.455
+Polymorphic information content (PIC): 0.424
+Average exclusion probability (1):     0.110
+Average exclusion probability (2):     0.263
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    0.46
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0462
+
+
+**** Locus FmMg3 ****
+
+Number of alleles:                     8
+Number of individuals typed:           72
+  Heterozygotes:                       41
+  Homozygotes:                         31
+Observed heterozygosity:               0.569
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+177     6      4              1            0.0417     0.1118   
+179     74     32             21           0.5139     0.1054   
+187     10     6              2            0.0694     0.1144   
+191     10     4              3            0.0694     0.1144   
+193     2      2              0            0.0139     0.1088   
+195     33     25             4            0.2292     0.1216   
+205     4      4              0            0.0278     0.1104   
+207     5      5              0            0.0347     0.1111   
+
+Expected heterozygosity:               0.675
+Polymorphic information content (PIC): 0.633
+Average exclusion probability (1):     0.274
+Average exclusion probability (2):     0.453
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    0.67
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0730
+
+
+**** Locus Fm018 ****
+
+Number of alleles:                     2
+Number of individuals typed:           72
+  Heterozygotes:                       33
+  Homozygotes:                         39
+Observed heterozygosity:               0.458
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+246     59     33             13           0.4097     0.1282   
+248     85     33             26           0.5903     0.1077   
+
+Expected heterozygosity:               0.487
+Polymorphic information content (PIC): 0.367
+Average exclusion probability (1):     0.117
+Average exclusion probability (2):     0.183
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    0.11
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0269
+
+
+**** Locus Tt403 ****
+
+Number of alleles:                     12
+Number of individuals typed:           72
+  Heterozygotes:                       35
+  Homozygotes:                         37
+Observed heterozygosity:               0.486
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+105     5      5              0            0.0347     0.1207   
+106     4      0              2            0.0278     0.1200   
+107     90     26             32           0.6250     0.0977   
+109     6      6              0            0.0417     0.1214   
+113     2      2              0            0.0139     0.1186   
+115     1      1              0            0.0069     0.1179   
+119     2      2              0            0.0139     0.1186   
+121     1      1              0            0.0069     0.1179   
+123     1      1              0            0.0069     0.1179   
+125     10     10             0            0.0694     0.1237   
+127     11     7              2            0.0764     0.1242   
+145     11     9              1            0.0764     0.1242   
+
+Expected heterozygosity:               0.593
+Polymorphic information content (PIC): 0.572
+Average exclusion probability (1):     0.217
+Average exclusion probability (2):     0.407
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    3.30
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1056
+
+
+**** Locus TtE02 ****
+
+Number of alleles:                     9
+Number of individuals typed:           72
+  Heterozygotes:                       34
+  Homozygotes:                         38
+Observed heterozygosity:               0.472
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+155     1      1              0            0.0069     0.1194   
+161     1      1              0            0.0069     0.1194   
+163     3      1              1            0.0208     0.1209   
+169     17     15             1            0.1181     0.1284   
+171     4      4              0            0.0278     0.1216   
+175     28     16             6            0.1944     0.1313   
+185     81     23             29           0.5625     0.1105   
+187     2      2              0            0.0139     0.1202   
+189     7      5              1            0.0486     0.1235   
+
+Expected heterozygosity:               0.632
+Polymorphic information content (PIC): 0.591
+Average exclusion probability (1):     0.232
+Average exclusion probability (2):     0.409
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    8.17
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1565
+
+
+**** Locus TtMC5 ****
+
+Number of alleles:                     2
+Number of individuals typed:           72
+  Heterozygotes:                       24
+  Homozygotes:                         48
+Observed heterozygosity:               0.333
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+235     106    24             41           0.7361     0.0923   
+239     38     24             7            0.2639     0.1453   
+
+Expected heterozygosity:               0.391
+Polymorphic information content (PIC): 0.313
+Average exclusion probability (1):     0.075
+Average exclusion probability (2):     0.157
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    1.05
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0764
+
+
+**** Locus Hx406 ****
+
+Number of alleles:                     4
+Number of individuals typed:           72
+  Heterozygotes:                       36
+  Homozygotes:                         36
+Observed heterozygosity:               0.500
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+98      60     26             17           0.4167     0.1233   
+100     36     22             7            0.2500     0.1291   
+102     47     23             12           0.3264     0.1279   
+106     1      1              0            0.0069     0.1163   
+
+Expected heterozygosity:               0.662
+Polymorphic information content (PIC): 0.585
+Average exclusion probability (1):     0.219
+Average exclusion probability (2):     0.368
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    4.24
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.1376
+
+
+**** Locus Hx402 ****
+
+Number of alleles:                     8
+Number of individuals typed:           72
+  Heterozygotes:                       48
+  Homozygotes:                         24
+Observed heterozygosity:               0.667
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+124     2      2              0            0.0139     0.0962   
+138     12     8              2            0.0833     0.1037   
+140     12     12             0            0.0833     0.1037   
+142     27     15             6            0.1875     0.1096   
+148     59     29             15           0.4097     0.1042   
+150     2      2              0            0.0139     0.0962   
+152     28     26             1            0.1944     0.1098   
+154     2      2              0            0.0139     0.0962   
+
+Expected heterozygosity:               0.750
+Polymorphic information content (PIC): 0.710
+Average exclusion probability (1):     0.352
+Average exclusion probability (2):     0.533
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    1.68
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0585
+
+
+**** Locus HxA05 ****
+
+Number of alleles:                     3
+Number of individuals typed:           72
+  Heterozygotes:                       30
+  Homozygotes:                         42
+Observed heterozygosity:               0.417
+
+Allele  Count  Heterozygotes  Homozygotes  Frequency  95% Conf. Interval (+/-)
+196     20     16             2            0.1389     0.1350   
+200     97     25             36           0.6736     0.0966   
+202     27     19             4            0.1875     0.1367   
+
+Expected heterozygosity:               0.495
+Polymorphic information content (PIC): 0.441
+Average exclusion probability (1):     0.121
+Average exclusion probability (2):     0.260
+Hardy-Weinberg equilibrium test
+  Chi-square value:                    2.69
+  Degrees of freedom:                  1
+Null allele frequency estimate:        0.0944
+
+
+**** Summary statistics ****
+
+Number of loci:                           9
+Number of individuals:                    72
+
+Locus       k   N     Hets  Homs  Hetz.  PIC    Excl(1)  Excl(2)  X2      v   Null freq
+Fm001       6   72    30    42    0.455  0.424  0.110    0.263    0.46    1   0.0462   
+FmMg3       8   72    41    31    0.675  0.633  0.274    0.453    0.67    1   0.0730   
+Fm018       2   72    33    39    0.487  0.367  0.117    0.183    0.11    1   0.0269   
+Tt403       12  72    35    37    0.593  0.572  0.217    0.407    3.30    1   0.1056   
+TtE02       9   72    34    38    0.632  0.591  0.232    0.409    8.17    1   0.1565   
+TtMC5       2   72    24    48    0.391  0.313  0.075    0.157    1.05    1   0.0764   
+Hx406       4   72    36    36    0.662  0.585  0.219    0.368    4.24    1   0.1376   
+Hx402       8   72    48    24    0.750  0.710  0.352    0.533    1.68    1   0.0585   
+HxA05       3   72    30    42    0.495  0.441  0.121    0.260    2.69    1   0.0944   
+
+Mean number of alleles per locus:         6.00
+Mean proportion of individuals typed:     1.000
+Mean expected heterozygosity:             0.571
+Mean PIC:                                 0.515
+Total exclusionary power (first parent):  0.858812
+Total exclusionary power (second parent): 0.978701
+
+********************************************************************************
+
+

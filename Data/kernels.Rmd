@@ -1,0 +1,44 @@
+---
+title: "Density estimations for dispersal kernels"
+author: "Pedro Jordano"
+date: "enero 29, 2015"
+output: html_document
+bibliography: refs.bib
+---
+
+Code for ploting diffreent forms of dispersal kernels and testing dispersal 
+model functions.  
+
+Data refer to seed dispersal distances estimated by direct assignement from
+seed endocarp genotypes 
+
+#### Plotting the kernels
+
+```{r plain, fig.height=5, fig.width=8}
+# Plain frequency distribution of dispersal distances.
+require(MASS)
+x<-assdist$dist
+truehist(x,xlim=c(0,20000),prob=F,h=100,col=1,xlab="Distance (m)",ylab="Probability",ymax=350)
+rug(x,side=1,col="red")
+
+```
+
+
+
+
+#### Fitting models
+
+```{r, echo=FALSE}
+
+```
+
+----------------------------------
+```{r}
+sessionInfo()
+```
+----------------------------------
+
+
+### References
+
+

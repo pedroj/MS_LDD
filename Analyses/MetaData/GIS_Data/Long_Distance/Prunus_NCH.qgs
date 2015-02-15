@@ -1,0 +1,301 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="Prunus" version="0.9.1-Ganymede" >
+    <title>Prunus</title>
+    <mapcanvas>
+        <units>meters</units>
+        <extent>
+            <xmin>-413.769322</xmin>
+            <ymin>-43.976917</ymin>
+            <xmax>983.230679</xmax>
+            <ymax>1173.460103</ymax>
+        </extent>
+        <projections>0</projections>
+        <destinationsrs>
+            <spatialrefsys>
+                <proj4>+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs</proj4>
+                <srsid>2585</srsid>
+                <srid>4326</srid>
+                <epsg>4326</epsg>
+                <description>WGS 84</description>
+                <projectionacronym>longlat</projectionacronym>
+                <ellipsoidacronym>WGS84</ellipsoidacronym>
+                <geographicflag>true</geographicflag>
+            </spatialrefsys>
+        </destinationsrs>
+    </mapcanvas>
+    <legend>
+        <legendlayer open="true" checked="Qt::Checked" name="traps" >
+            <filegroup open="false" hidden="true" >
+                <legendlayerfile layerid="traps20080107014249705" visible="1" inOverview="0" />
+            </filegroup>
+        </legendlayer>
+        <legendlayer open="true" checked="Qt::Checked" name="trees" >
+            <filegroup open="false" hidden="true" >
+                <legendlayerfile layerid="trees20080107014228110" visible="1" inOverview="0" />
+            </filegroup>
+        </legendlayer>
+        <legendlayer open="true" checked="Qt::Checked" name="postes1" >
+            <filegroup open="false" hidden="true" >
+                <legendlayerfile layerid="postes120080107014207649" visible="1" inOverview="0" />
+            </filegroup>
+        </legendlayer>
+    </legend>
+    <projectlayers layercount="3" >
+        <maplayer minScale="0" maxScale="1e+08" scaleBasedVisibilityFlag="0" geometry="Point" type="vector" >
+            <id>postes120080107014207649</id>
+            <datasource>/Users/pedroj/Documents/Working/MS_Endocarps-Long_Distance/MetaData/GIS_Data/Long_Distance/postes1.shp</datasource>
+            <layername>postes1</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs</proj4>
+                    <srsid>2585</srsid>
+                    <srid>4326</srid>
+                    <epsg>4326</epsg>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider>ogr</provider>
+            <encoding>System</encoding>
+            <displayfield>MHAB</displayfield>
+            <label>0</label>
+            <attributeactions/>
+            <singlesymbol>
+                <symbol>
+                    <lowervalue></lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="229" blue="16" green="232" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+            </singlesymbol>
+            <labelattributes>
+                <label field="" text="Etiqueta" />
+                <family field="" name="Lucida Grande" />
+                <size field="" units="pt" value="12" />
+                <bold field="" on="0" />
+                <italic field="" on="0" />
+                <underline field="" on="0" />
+                <color field="" red="0" blue="0" green="0" />
+                <x field="" />
+                <y field="" />
+                <offset x="0" y="0" yfield="-1" xfield="-1" units="pt" />
+                <angle field="" value="0" />
+                <alignment field="-1" value="center" />
+                <buffercolor field="" red="255" blue="255" green="255" />
+                <buffersize field="" units="pt" value="1" />
+                <bufferenabled field="" on="" />
+            </labelattributes>
+        </maplayer>
+        <maplayer minScale="1" maxScale="1e+08" scaleBasedVisibilityFlag="0" geometry="Point" type="vector" >
+            <id>traps20080107014249705</id>
+            <datasource>/Users/pedroj/Documents/Working/MS_Endocarps-Long_Distance/MetaData/GIS_Data/Long_Distance/traps.shp</datasource>
+            <layername>traps</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs</proj4>
+                    <srsid>2585</srsid>
+                    <srid>4326</srid>
+                    <epsg>4326</epsg>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider>ogr</provider>
+            <encoding>System</encoding>
+            <classificationattribute>MICROHAB</classificationattribute>
+            <displayfield>MICROHAB</displayfield>
+            <label>0</label>
+            <attributeactions/>
+            <uniquevalue>
+                <classificationfield>0</classificationfield>
+                <symbol>
+                    <lowervalue>A</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="19" blue="98" green="128" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>N</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="71" blue="136" green="234" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>P</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="119" blue="13" green="240" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>R</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="195" blue="212" green="197" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>S</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="32" blue="176" green="5" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+                <symbol>
+                    <lowervalue>a</lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>hard:circle</pointsymbol>
+                    <pointsize>6</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="222" blue="188" green="161" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+            </uniquevalue>
+            <labelattributes>
+                <label field="" text="Etiqueta" />
+                <family field="" name="Lucida Grande" />
+                <size field="" units="pt" value="12" />
+                <bold field="" on="0" />
+                <italic field="" on="0" />
+                <underline field="" on="0" />
+                <color field="" red="0" blue="0" green="0" />
+                <x field="" />
+                <y field="" />
+                <offset x="0" y="0" yfield="-1" xfield="-1" units="pt" />
+                <angle field="" value="0" />
+                <alignment field="-1" value="center" />
+                <buffercolor field="" red="255" blue="255" green="255" />
+                <buffersize field="" units="pt" value="1" />
+                <bufferenabled field="" on="" />
+            </labelattributes>
+        </maplayer>
+        <maplayer minScale="1" maxScale="1e+08" scaleBasedVisibilityFlag="0" geometry="Point" type="vector" >
+            <id>trees20080107014228110</id>
+            <datasource>/Users/pedroj/Documents/Working/MS_Endocarps-Long_Distance/MetaData/GIS_Data/Long_Distance/trees.shp</datasource>
+            <layername>trees</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs</proj4>
+                    <srsid>2585</srsid>
+                    <srid>4326</srid>
+                    <epsg>4326</epsg>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider>ogr</provider>
+            <encoding>System</encoding>
+            <displayfield>MICROHAB</displayfield>
+            <label>0</label>
+            <attributeactions/>
+            <singlesymbol>
+                <symbol>
+                    <lowervalue></lowervalue>
+                    <uppervalue></uppervalue>
+                    <label></label>
+                    <pointsymbol>svg:/Applications/Stats_OSX/qgis-0.9.1/qgis0.9.1.app/Contents/MacOS/share/qgis/svg/biology/Deciduous.svg</pointsymbol>
+                    <pointsize>8</pointsize>
+                    <outlinecolor red="0" blue="0" green="0" />
+                    <outlinestyle>SolidLine</outlinestyle>
+                    <outlinewidth>1</outlinewidth>
+                    <fillcolor red="231" blue="132" green="129" />
+                    <fillpattern>SolidPattern</fillpattern>
+                    <texturepath></texturepath>
+                </symbol>
+            </singlesymbol>
+            <labelattributes>
+                <label field="" text="Etiqueta" />
+                <family field="" name="Lucida Grande" />
+                <size field="" units="pt" value="12" />
+                <bold field="" on="0" />
+                <italic field="" on="0" />
+                <underline field="" on="0" />
+                <color field="" red="0" blue="0" green="0" />
+                <x field="" />
+                <y field="" />
+                <offset x="0" y="0" yfield="-1" xfield="-1" units="pt" />
+                <angle field="" value="0" />
+                <alignment field="-1" value="center" />
+                <buffercolor field="" red="255" blue="255" green="255" />
+                <buffersize field="" units="pt" value="1" />
+                <bufferenabled field="" on="" />
+            </labelattributes>
+        </maplayer>
+    </projectlayers>
+    <properties>
+        <SpatialRefSys>
+            <ProjectSRSProj4String type="QString" >+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs</ProjectSRSProj4String>
+        </SpatialRefSys>
+        <Gui>
+            <SelectionColorBluePart type="int" >0</SelectionColorBluePart>
+            <SelectionColorGreenPart type="int" >255</SelectionColorGreenPart>
+            <SelectionColorRedPart type="int" >255</SelectionColorRedPart>
+            <CanvasColorBluePart type="int" >255</CanvasColorBluePart>
+            <CanvasColorRedPart type="int" >255</CanvasColorRedPart>
+            <CanvasColorGreenPart type="int" >255</CanvasColorGreenPart>
+        </Gui>
+        <PositionPrecision>
+            <DecimalPlaces type="int" >1</DecimalPlaces>
+            <Automatic type="bool" >false</Automatic>
+        </PositionPrecision>
+        <Digitizing>
+            <Tolerance type="QString" >0</Tolerance>
+            <LineWidth type="int" >1</LineWidth>
+            <LineColorGreenPart type="int" >0</LineColorGreenPart>
+            <LineColorBluePart type="int" >0</LineColorBluePart>
+            <LineColorRedPart type="int" >255</LineColorRedPart>
+        </Digitizing>
+    </properties>
+</qgis>
