@@ -55,7 +55,7 @@ _Acknowledgements_. I am indebted to José A. Godoy, Manolo Carrión, Juan Luis 
 
 ------------------------------------------------------------------
 
-|                             |       Population limit       ||
+                             |       Population limit         
 Genetic neighborhood limit	  | Within    |    Outside       |
  ------------ | :-----------: | :-----------: |
 Within       |   Local, short-distance dispersal, $SDD_{loc}$    |         Within neighborhood, long-distance dispersal , $LDD_{neigh}$ |
