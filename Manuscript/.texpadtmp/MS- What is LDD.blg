@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Volumes/PEDRO_SD/BCKP/Working_BCKP/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
+The style file: ../bes.bst
+Database file #1: ../MS_BES.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 21 entries,
+            3248 wiz_defined-function locations,
+            829 strings with 9561 characters,
+and the built_in function-call counts, 13483 in all, are:
+= -- 1071
+> -- 588
+< -- 14
++ -- 226
+- -- 204
+* -- 1078
+:= -- 2053
+add.period$ -- 42
+call.type$ -- 21
+change.case$ -- 172
+chr.to.int$ -- 26
+cite$ -- 21
+duplicate$ -- 1032
+empty$ -- 1034
+format.name$ -- 255
+if$ -- 2646
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 231
+newline$ -- 73
+num.names$ -- 84
+pop$ -- 455
+preamble$ -- 1
+purify$ -- 152
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 628
+swap$ -- 540
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 0
+while$ -- 96
+width$ -- 0
+write$ -- 244

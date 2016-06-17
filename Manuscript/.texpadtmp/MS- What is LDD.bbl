@@ -1,0 +1,123 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Clark \emph{et~al.}(1998)Clark, Fastie, Hurtt, Jackson, Johnson,
+  King, Lewis, Lynch, Pacala, Prentice, Schupp, Webb~III \&
+  Wyckoff}]{Clark:1998aa}
+Clark, J.S., Fastie, C., Hurtt, G.C., Jackson, S.T., Johnson, C., King, G.,
+  Lewis, M., Lynch, J., Pacala, S., Prentice, C., Schupp, E., Webb~III, T. \&
+  Wyckoff, P. (1998) {Reid's paradox of rapid plant migration}.
+  \emph{BioScience}, \textbf{48}, 13--24.
+
+\bibitem[{Clark(1998)}]{Clark:1998vi}
+Clark, J. (1998) {Why trees migrate so fast: Confronting theory with dispersal
+  biology and the paleorecord}. \emph{The American Naturalist}, \textbf{152},
+  204--224.
+
+\bibitem[{Cousens \emph{et~al.}(2008)Cousens, Dytham \& Law}]{Cousens:2008aa}
+Cousens, R.D., Dytham, C. \& Law, R. (2008) \emph{{Dispersal in plants. A
+  population perspective}}. Oxford University Press, Oxford, UK.
+
+\bibitem[{D'Aloia \emph{et~al.}(2013)D'Aloia, Bogdanowicz, Majoris, Harrison \&
+  Buston}]{DAloia:2013fc}
+D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
+  (2013) {Self-recruitment in a Caribbean reef fish: a method for approximating
+  dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
+  n/a--n/a, \doi{10.1111/mec.12274}.
+
+\bibitem[{Eguiarte \emph{et~al.}(1993)Eguiarte, Burquez, Rodriguez,
+  Martinez-Ramos, Sarukhan \& Pinero}]{Eguiarte:1993aa}
+Eguiarte, L.E., Burquez, A., Rodriguez, J., Martinez-Ramos, M., Sarukhan, J. \&
+  Pinero, D. (1993) {Direct and indirect estimates of neighborhood and
+  effective population size in a tropical palm, Astrocaryum mexicanum}.
+  \emph{Evolution}, 75--87.
+
+\bibitem[{Garc{\'\i}a \& Borda-de {\'A}gua(2017)}]{Garcia:2017aa}
+Garc{\'\i}a, C. \& Borda-de {\'A}gua, L. (2017) Extended dispersal kernels:
+  insights from statistics of extremes. \emph{Journal of Ecology}, \textbf{00},
+  000--000.
+
+\bibitem[{Hampe \& Jump(2011)}]{Hampe:2011bv}
+Hampe, A. \& Jump, A.S. (2011) {Climate Relicts: Past, Present, Future}.
+  \emph{Annual Review of Ecology Evolution and Systematics}, \textbf{42}(1),
+  313--333, \doi{10.1146/annurev-ecolsys-102710-145015}.
+
+\bibitem[{Harper(1977)}]{Harper:1977aa}
+Harper, J. (1977) \emph{Population Biology of Plants}, 1st edn. Academic Press,
+  London.
+
+\bibitem[{Jones \& Muller-Landau(2008)}]{Jones:2008il}
+Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
+  dispersal in complex natural environments: an evaluation and integration of
+  classical and genetic methods}. \emph{Journal of Ecology}, \textbf{96}(4),
+  642--652, \doi{10.1111/j.1365-2745.2008.01400.x}.
+
+\bibitem[{Kinlan \emph{et~al.}(2005)Kinlan, Gaines \& Lester}]{Kinlan:2005fb}
+Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
+  of marine community process}. \emph{Diversity and Distributions},
+  \textbf{11}, 139--148, \doi{10.1111/j.1366-9516.2005.00158.x}.
+
+\bibitem[{Kramer \emph{et~al.}(2008)Kramer, Ison, Ashley \&
+  Howe}]{Kramer:2008kg}
+Kramer, A., Ison, J., Ashley, M. \& Howe, H. (2008) {The paradox of forest
+  fragmentation genetics}. \emph{Conservation Biology}, 8,
+  \doi{10.1111/j.1523-1739.2008.00944.x}.
+
+\bibitem[{Nathan(2005)}]{Nathan:2005jc}
+Nathan, R. (2005) {Long-distance dispersal research: building a network of
+  yellow brick roads}. \emph{Diversity and Distributions}, \textbf{11}(2),
+  125--130, \doi{10.1111/j.1366-9516.2005.00159.x}.
+
+\bibitem[{Nathan(2006)}]{Nathan:2006aa}
+Nathan, R. (2006) {Long-distance dispersal of plants}. \emph{Science},
+  \textbf{313}, 786--788.
+
+\bibitem[{Nathan \emph{et~al.}(2008{\natexlab{a}})Nathan, Getz, Revilla,
+  Holyoak, Kadmon, Saltz \& Smouse}]{Nathan:2008fx}
+Nathan, R., Getz, W.M., Revilla, E., Holyoak, M., Kadmon, R., Saltz, D. \&
+  Smouse, P.E. (2008{\natexlab{a}}) {A movement ecology paradigm for unifying
+  organismal movement research}. \emph{Proceedings of the National Academy of
+  Sciences USA}, \textbf{105}(49), 19052--19059, \doi{10.1073/pnas.0800375105}.
+
+\bibitem[{Nathan \emph{et~al.}(2008{\natexlab{b}})Nathan, Schurr, Spiegel,
+  Steinitz, Trakhtenbrot \& Tsoar}]{Nathan:2008is}
+Nathan, R., Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A. \& Tsoar,
+  A. (2008{\natexlab{b}}) {Mechanisms of long-distance seed dispersal}.
+  \emph{Trends In Ecology {\&} Evolution}, \textbf{23}(11), 638--647,
+  \doi{10.1016/j.tree.2008.08.003}.
+
+\bibitem[{Schupp(1995)}]{Schupp:1995}
+Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
+  plant recruitment. \emph{American Journal of Botany}, \textbf{82}, 399--409,
+  \doi{10.2307%2F2445586}.
+
+\bibitem[{Schurr \emph{et~al.}(2009)Schurr, Spiegel, Steinitz, Trakhtenbrot,
+  Tsoar \& Nathan}]{schurr2009long}
+Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A., Tsoar, A. \& Nathan,
+  R. (2009) Long-distance seed dispersal. \emph{Annual Plant Reviews},
+  \textbf{38}, 204--237.
+
+\bibitem[{Slatkin(1985)}]{Slatkin:1985qb}
+Slatkin, M. (1985) {Gene flow in natural populations}. \emph{Annual Review of
+  Ecology Evolution and Systematics}, \doi{10.2307/2097054}.
+
+\bibitem[{Wright(1943)}]{Wright:1943aa}
+Wright, S. (1943) {Isolation by distance}. \emph{Genetics}, \textbf{28},
+  114--138.
+
+\bibitem[{Wright(1946)}]{Wright:1946aa}
+Wright, S. (1946) {Isolation by distance under diverse systems of mating}.
+  \emph{Genetics}, \textbf{31}, 39--59.
+
+\bibitem[{Wright(1969)}]{Wright:1969mb}
+Wright, S. (1969) \emph{{Evolution and the genetics of populations. Vol. 2: The
+  theory of gene frequencies}}. University of Chicago Press, Chicago, USA.
+
+\end{thebibliography}
