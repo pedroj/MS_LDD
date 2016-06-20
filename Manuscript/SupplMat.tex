@@ -3,7 +3,7 @@
 %% Pedro - 07 June 2016
 %----------------------------------------------------------------------------
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Headers
-\documentclass[a4paper, 12pt]{article}}
+\documentclass[a4paper, 12pt]{article}
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper]{geometry}
@@ -19,8 +19,7 @@
 \usepackage{booktabs}
 \usepackage{natbib}
 \usepackage{longtable}
-\usepackage{rotating} 
-\usepackage{standalone}                                                                                    
+\usepackage{rotating}                                                                                     
 \newcommand{\tab}{\hspace{5mm}}
 \usepackage{tabularx} 
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
@@ -28,7 +27,7 @@
 \usepackage{caption}
 \DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `basename #1 .tif`.png}
 \usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
-\pagestyle{fancy}     % options: empty , plain , fancy
+\pagestyle{empty}     % options: empty , plain , fancy
 \renewcommand{\headrulewidth}{0pt} % customise the layout...
 \lhead{{\tiny Jordano - What is long-distance dispersal?}}\chead{}\rhead{}
 \lfoot{}\cfoot{\thepage}\rfoot{}
@@ -96,6 +95,14 @@ E-41092 Sevilla, Spain.}\\
 
 \newpage 
 
+%------------------------------------------------------------------ Figure S2
+\begin{figure}[htbp]
+\centerline{\includegraphics[height=22cm]{FigS2.pdf}}
+%
+\caption{Differential contributions of functional groups of frugivores to the short- ($SDD_{loc}$) and long-distance ($LDD_{loc}$) local seed dispersal events for \textit{Prunus mahaleb}.}
+\end{figure}
+
+\newpage 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	

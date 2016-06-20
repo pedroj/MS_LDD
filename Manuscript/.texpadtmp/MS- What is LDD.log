@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.6.2)  20 JUN 2016 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.6.2)  20 JUN 2016 21:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -716,15 +716,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
+[15
 
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-[15
-
-
-] [16] <Fig1.pdf, id=187, 597.23125pt x 845.1575pt>
+[16] <Fig1.pdf, id=187, 597.23125pt x 845.1575pt>
 File: Fig1.pdf Graphic file (type pdf)
  <use Fig1.pdf>
 Package pdftex.def Info: Fig1.pdf used on input line 212.
@@ -779,10 +779,10 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  36i,11n,43p,2190b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "/Users/pedro/Documents/MS_LDD/Manuscript/.texpadtmp/MS- What is LDD.pdf" (21 pages, 1364091 bytes).
+Output written on "/Users/pedro/Documents/MS_LDD/Manuscript/.texpadtmp/MS- What is LDD.pdf" (21 pages, 1390754 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
+ 535 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
  63 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
