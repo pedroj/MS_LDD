@@ -22,6 +22,7 @@
 \usepackage{rotating}                                                                                    
 \newcommand{\tab}{\hspace{5mm}}
 \usepackage{tabularx} 
+%\usepackage{multirow}
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
 \usepackage[left]{lineno}
 \usepackage{caption}
@@ -188,10 +189,34 @@ Outside   &     Local, long-distance dispersal, $LDD_{loc}$
 \end{table}
 \end{landscape}
 
-%----------------------------------------------------------------------------
-
 \newpage
 
+%-------------------------------------------------------------------- Table 2
+\pagestyle{empty}
+\begin{landscape}
+\begin{table}
+\captionsetup{width=21cm}%.75\textwidth}
+\caption{Frequencies of \textit{Prunus mahaleb} seed dispersal events for different frugivore groups according to population area limits and genetic neighborhood limits. See Fig. 2 for a graphical representation of the four scenarios.}
+\vspace{0.5cm}
+    \begin{tabular}{lp{3cm}p{3cm}p{3cm}p{3cm}}
+    \hline \\
+    Frugivore group & Within-population, within-neighborhood $SSD_{loc}$ & Within-population, long-distance $LDD_{loc}$ & Outside-population, within-neighborhood $LDD_{neigh}$ & Strict-sense long-distance $LDD_{ss}$ \\\\ \hline \\
+    Small birds     & ?~           & ?~            & ?~           & ?~  \\
+    \textit{Turdus} & ?~           & ?~            & ?~           & ?~  \\
+
+    Large birds     & ?~           & ?~            & ?~           & ?~  \\
+
+    Mammals         & ?~           & ?~            & ?~           & ?~  \\\\
+\hline
+    \end{tabular}
+\end{table}
+\end{landscape}
+
+%----------------------------------------------------------------------------
+ 
+\newpage  
+\newpage  
+ 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LANDSCAPE FIGURES
 %%%% Figure LEGENDS
 %%%% This is for sideways figures (landscape), with legend in a separate page.
@@ -204,7 +229,7 @@ Outside   &     Local, long-distance dispersal, $LDD_{loc}$
  
 \textbf{Figure 3}. Empirical frequency distributions of seed dispersal events as a function of dispersal distance by animal frugivores consuming \textit{Prunus mahaleb} fruits. In red, left (inset), frequencies of within-populations dispersal events inferred from direct assignment based on seed endocarp genotypes and maternal trees genotypes. Larger frame, left, contributions of four functional frugivore groups (small birds, medium- and large-sized birds, and mammals) to seed dissemination and proportional contributions (right bar) to dispersal of the inferred immigrant seeds (i.e., those not matching any maternal tree in the study population).\\
  
-\textbf{Figure 4}. Differential contributions of functional groups of frugivores to the four combinations of \textit{Prunus mahaleb} seed dispersal events outlined in Table 1. These result from dissemination within (yellow) and outside (blue) the population geographic limits ($SDD_{loc}$, $LDD_{loc}$, respectively) and/or the genetic neigborhood area limits ($SDD_{neigh}$, $LDD_{ss}$, respectively).\\ 
+\textbf{Figure 4}. Differential contributions of functional groups of frugivores to the four combinations of \textit{Prunus mahaleb} seed dispersal events outlined in Table 1. These result from dissemination within (yellow) or outside (blue) the population geographic limits ($SDD_{loc}$, $LDD_{loc}$, respectively) and within or outside the genetic neigborhood area limits ($SDD_{neigh}$, $LDD_{ss}$, respectively).\\ 
 \newpage
 
 %------------------------------------------------------------------- Figure 1
