@@ -3,7 +3,7 @@
 %% Pedro - 07 June 2016
 %----------------------------------------------------------------------------
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Headers
-\documentclass[a4paper, 12pt]{article}
+\documentclass[a4paper, 12pt]{article}}
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper]{geometry}
@@ -19,7 +19,8 @@
 \usepackage{booktabs}
 \usepackage{natbib}
 \usepackage{longtable}
-\usepackage{rotating}                                                                                    
+\usepackage{rotating} 
+\usepackage{standalone}                                                                                    
 \newcommand{\tab}{\hspace{5mm}}
 \usepackage{tabularx} 
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
@@ -65,11 +66,32 @@ E-41092 Sevilla, Spain.}\\
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Supplementary Material
+%------------------------------------------------------------------- Table S1
+\begin{landscape}
+\begin{table}
+  \caption{Summary of neighborhood area sizes and estimated neighborhood radius for tree species with different combinations of dispersal modes. Data from Nason et al and present study. }
+    \begin{tabular}{lllccc}
+     Species                & Pollinator  & Seed disperser & Density ($ha^{-1}$) & Breeding unit ($km^2$) & Radius (km) \\
+    \textit{Ficus dugandii}          & Fig wasp    & Vertebrates    & 0.004          & 631.7               & 14.2        \\
+    \textit{Ficus obtusifolia}       & Fig wasp    & Vertebrates    & 0.072          & 105.9               & 5.8         \\
+    \textit{Prunus mahaleb}          & Bees, flies & Vertebrates    & 0.003          & 0.87                & 0.042       \\
+    \textit{Frangula alnus}          & Bees, flies & Vertebrates    & 0.0004         & 0.45                & 0.013       \\
+    \textit{Astrocaryum mexicanum}   & Beetle      & Vertebrates    & 1364.0         & 0.011               & 0.06        \\
+    \textit{Calophyllum longifolium} & Bees        & Vertebrates    & 0.28           & 1.241               & 0.629       \\
+    \textit{Platypodium elegans}     & Bees        & Wind           & 0.78           & 0.866               & 0.525       \\
+    \textit{Cedrus atlantica}        & Wind        & Wind           & 61.7           & 0.151               & 0.22        \\
+   \textit{Fraxinus americana}      & Wind        & Wind           & 24.7           & 0.008               & 0.05        \\
+    \textit{Pseudotsuga menziesii}   & Wind        & Wind           & 25.0           & 0.078               & 0.158       \\
+    \end{tabular}
+\end{table}
+\end{landscape}
+\newpage 
+
 %------------------------------------------------------------------ Figure S1
 \begin{figure}[htbp]
 \centerline{\includegraphics[height=21cm]{FigS1.pdf}}
 %
-\caption{Dispersal events for pollen (left) and seeds (right) traced for \textit{Prunus mahaleb} trees (white dots). All the adult, reproductive, trees in the population are mapped. Lines indicate mating events of pollen dispersal among trees (left) or seed dissemination events from source fruiting trees to seed traps (suqares; right). Line thickness is proportional to the number of events recorded.}
+\caption{Dispersal events for pollen (left) and seeds (right) traced for \textit{Prunus mahaleb} trees (white dots). All the adult, reproductive, trees in the population are mapped. Lines indicate mating events of pollen dispersal among trees (left) or seed dissemination events from source fruiting trees to seed traps (squares; right). Line thickness is proportional to the number of events recorded.}
 \end{figure}
 
 \newpage 
