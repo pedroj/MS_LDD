@@ -1,47 +1,47 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/pedro/Documents/MS_LDD/Manuscript/.texpadtmp/MS- What is LDD.aux
+The top-level auxiliary file: /Users/pedro/Library/Mobile Documents/com~apple~CloudDocs/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 23 entries,
+You've used 26 entries,
             3248 wiz_defined-function locations,
-            843 strings with 9824 characters,
-and the built_in function-call counts, 14764 in all, are:
-= -- 1183
-> -- 632
-< -- 15
-+ -- 243
-- -- 219
-* -- 1184
-:= -- 2241
-add.period$ -- 46
-call.type$ -- 23
-change.case$ -- 187
-chr.to.int$ -- 28
-cite$ -- 23
-duplicate$ -- 1130
-empty$ -- 1135
-format.name$ -- 278
-if$ -- 2900
+            865 strings with 10477 characters,
+and the built_in function-call counts, 16656 in all, are:
+= -- 1349
+> -- 694
+< -- 17
++ -- 267
+- -- 240
+* -- 1338
+:= -- 2517
+add.period$ -- 52
+call.type$ -- 26
+change.case$ -- 209
+chr.to.int$ -- 31
+cite$ -- 26
+duplicate$ -- 1277
+empty$ -- 1286
+format.name$ -- 312
+if$ -- 3276
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 252
-newline$ -- 79
-num.names$ -- 92
-pop$ -- 495
+missing$ -- 283
+newline$ -- 88
+num.names$ -- 104
+pop$ -- 554
 preamble$ -- 1
-purify$ -- 165
+purify$ -- 184
 quote$ -- 0
-skip$ -- 342
+skip$ -- 386
 stack$ -- 0
-substring$ -- 706
-swap$ -- 591
+substring$ -- 820
+swap$ -- 669
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 198
+type$ -- 225
 warning$ -- 0
-while$ -- 106
+while$ -- 121
 width$ -- 0
-write$ -- 267
+write$ -- 301

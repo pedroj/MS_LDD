@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -49,9 +49,19 @@ Hampe, A. \& Jump, A.S. (2011) {Climate Relicts: Past, Present, Future}.
   \emph{Annual Review of Ecology Evolution and Systematics}, \textbf{42}(1),
   313--333, \doi{10.1146/annurev-ecolsys-102710-145015}.
 
+\bibitem[{Hardesty \emph{et~al.}(2006)Hardesty, Hubbell \&
+  Bermingham}]{Hardesty:2006lr}
+Hardesty, B.D., Hubbell, S.P. \& Bermingham, E. (2006) {Genetic evidence of
+  frequent long-distance recruitment in a vertebrate-dispersed tree}.
+  \emph{Ecology Letters}, \textbf{9}, 516--525.
+
 \bibitem[{Harper(1977)}]{Harper:1977aa}
 Harper, J. (1977) \emph{Population Biology of Plants}, 1st edn. Academic Press,
   London.
+
+\bibitem[{Howe \& Miriti(2004)}]{Howe:2004}
+Howe, H.F. \& Miriti, M.N. (2004) {When seed dispersal matters}.
+  \emph{BioScience}, \textbf{54}(7), 651--660.
 
 \bibitem[{Jones \& Muller-Landau(2008)}]{Jones:2008il}
 Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
@@ -103,7 +113,7 @@ Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
   \doi{10.2307%2F2445586}.
 
 \bibitem[{Schurr \emph{et~al.}(2009)Schurr, Spiegel, Steinitz, Trakhtenbrot,
-  Tsoar \& Nathan}]{schurr2009long}
+  Tsoar \& Nathan}]{Schurr2009long}
 Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A., Tsoar, A. \& Nathan,
   R. (2009) Long-distance seed dispersal. \emph{Annual Plant Reviews},
   \textbf{38}, 204--237.
@@ -116,6 +126,12 @@ Seidler, T.G. \& Plotkin, J.B. (2006) {Seed dispersal and spatial pattern in
 \bibitem[{Slatkin(1985)}]{Slatkin:1985qb}
 Slatkin, M. (1985) {Gene flow in natural populations}. \emph{Annual Review of
   Ecology Evolution and Systematics}, \doi{10.2307/2097054}.
+
+\bibitem[{Waples \& Gaggiotti(2006)}]{Waples:2006ev}
+Waples, R. \& Gaggiotti, O. (2006) {What is a population? An empirical
+  evaluation of some genetic methods for identifying the number of gene pools
+  and their degree of connectivity}. \emph{Molecular Ecology}, \textbf{15},
+  1419--1439, \doi{10.1111/j.1365-294X.2006.02890.x}.
 
 \bibitem[{Wright(1943)}]{Wright:1943aa}
 Wright, S. (1943) {Isolation by distance}. \emph{Genetics}, \textbf{28},
