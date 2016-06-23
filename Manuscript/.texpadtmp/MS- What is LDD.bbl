@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,6 +7,12 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Carlo \emph{et~al.}(2009)Carlo, Tewksbury, Mart{\'\i}nez \&
+  Mart}]{Carlo:2009wa}
+Carlo, T., Tewksbury, J., Mart{\'\i}nez, C. \& Mart (2009) {A new method to
+  track seed dispersal and recruitment using 15N isotope enrichment}.
+  \emph{Ecology}, \textbf{90}, 3516{\textendash}3525.
 
 \bibitem[{Clark \emph{et~al.}(1998)Clark, Fastie, Hurtt, Jackson, Johnson,
   King, Lewis, Lynch, Pacala, Prentice, Schupp, Webb~III \&
@@ -32,17 +38,22 @@ D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
   dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
   n/a--n/a, \doi{10.1111/mec.12274}.
 
-\bibitem[{Eguiarte \emph{et~al.}(1993)Eguiarte, Burquez, Rodriguez,
-  Martinez-Ramos, Sarukhan \& Pinero}]{Eguiarte:1993aa}
-Eguiarte, L.E., Burquez, A., Rodriguez, J., Martinez-Ramos, M., Sarukhan, J. \&
-  Pinero, D. (1993) {Direct and indirect estimates of neighborhood and
-  effective population size in a tropical palm, Astrocaryum mexicanum}.
-  \emph{Evolution}, 75--87.
-
 \bibitem[{Garc{\'\i}a \& Borda-de {\'A}gua(2017)}]{Garcia:2017aa}
 Garc{\'\i}a, C. \& Borda-de {\'A}gua, L. (2017) Extended dispersal kernels:
   insights from statistics of extremes. \emph{Journal of Ecology}, \textbf{00},
   000--000.
+
+\bibitem[{Godoy \& Jordano(2001)}]{Godoy:2001}
+Godoy, J.A. \& Jordano, P. (2001) {Seed dispersal by animals: exact
+  identification of source trees with endocarp DNA microsatellites}.
+  \emph{Molecular Ecology}, \textbf{10}(9), 2275--2283.
+
+\bibitem[{Gonz{\'a}lez-Varo \emph{et~al.}(2014)Gonz{\'a}lez-Varo, Arroyo \&
+  Jordano}]{GonzalezVaro:2014ij}
+Gonz{\'a}lez-Varo, J.P., Arroyo, J.M. \& Jordano, P. (2014) {Who dispersed the
+  seeds? The use of DNA barcoding in frugivory and seed dispersal studies}.
+  \emph{Methods in Ecology and Evolution}, \textbf{5}(8), 806--814,
+  \doi{10.1111/2041-210X.12212}.
 
 \bibitem[{Hampe \& Jump(2011)}]{Hampe:2011bv}
 Hampe, A. \& Jump, A.S. (2011) {Climate Relicts: Past, Present, Future}.
@@ -69,6 +80,20 @@ Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
   classical and genetic methods}. \emph{Journal of Ecology}, \textbf{96}(4),
   642--652, \doi{10.1111/j.1365-2745.2008.01400.x}.
 
+\bibitem[{Jordano(2007)}]{Jordano:2007a}
+Jordano, P. (2007) {Frugivores, seeds, and genes: analysing the key components
+  of seed shadows}. \emph{Seed Dispersal: Theory and its Application in a
+  Changing World} (eds. A.J. Dennis, R.~Green, E.W. Schupp \& A.J. Wescott).
+  CAB International, Wallingford, UK, pp. 229--251.
+
+\bibitem[{Jordano \emph{et~al.}(2007)Jordano, Garc{\'\i}a, Godoy \&
+  Garc{\'\i}a-Casta{\~n}o}]{Jordano:2007}
+Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
+  (2007) {Differential contribution of frugivores to complex seed dispersal
+  patterns.} \emph{Proceedings Of The National Academy Of Sciences Of The
+  United States Of America}, \textbf{104}(9), 3278--3282,
+  \doi{10.1073/pnas.0606793104}.
+
 \bibitem[{Kinlan \emph{et~al.}(2005)Kinlan, Gaines \& Lester}]{Kinlan:2005fb}
 Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
   of marine community process}. \emph{Diversity and Distributions},
@@ -79,6 +104,10 @@ Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
 Kramer, A., Ison, J., Ashley, M. \& Howe, H. (2008) {The paradox of forest
   fragmentation genetics}. \emph{Conservation Biology}, 8,
   \doi{10.1111/j.1523-1739.2008.00944.x}.
+
+\bibitem[{Levin(1988)}]{Levin:1988fm}
+Levin, D.A. (1988) {The paternity pools of plants}. \emph{The American
+  Naturalist}, \textbf{132}, 309--317, \doi{10.2307/2461984}.
 
 \bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{Nason:1998aa}
 Nason, J.D., Herre, E. \& Hamrick, J.L. (1998) {The breeding structure of a
