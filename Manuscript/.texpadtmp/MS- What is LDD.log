@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  26 JUN 2016 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  26 JUN 2016 21:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -802,7 +802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[20] <Fig1.pdf, id=259, 597.23125pt x 845.1575pt>
+[20] <Fig1.pdf, id=261, 597.23125pt x 845.1575pt>
 File: Fig1.pdf Graphic file (type pdf)
  <use Fig1.pdf>
 Package pdftex.def Info: Fig1.pdf used on input line 249.
@@ -811,7 +811,7 @@ Package pdftex.def Info: Fig1.pdf used on input line 249.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 252.
 
-<Fig2.pdf, id=260, 597.23125pt x 845.1575pt>
+<Fig2.pdf, id=262, 597.23125pt x 845.1575pt>
 File: Fig2.pdf Graphic file (type pdf)
  <use Fig2.pdf>
 Package pdftex.def Info: Fig2.pdf used on input line 258.
@@ -820,7 +820,7 @@ Package pdftex.def Info: Fig2.pdf used on input line 258.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 261.
 
-<Fig3.pdf, id=261, 597.23125pt x 845.1575pt>
+<Fig3.pdf, id=263, 597.23125pt x 845.1575pt>
 File: Fig3.pdf Graphic file (type pdf)
  <use Fig3.pdf>
 Package pdftex.def Info: Fig3.pdf used on input line 267.
@@ -829,7 +829,7 @@ Package pdftex.def Info: Fig3.pdf used on input line 267.
 
 LaTeX Warning: Float too large for page by 148.24146pt on input line 270.
 
-<Fig4.pdf, id=262, 597.23125pt x 845.1575pt>
+<Fig4.pdf, id=264, 597.23125pt x 845.1575pt>
 File: Fig4.pdf Graphic file (type pdf)
  <use Fig4.pdf>
 Package pdftex.def Info: Fig4.pdf used on input line 277.
@@ -857,10 +857,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  36i,12n,43p,2190b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "/Users/pedro/Library/Mobile Documents/com~apple~CloudDocs/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (25 pages, 1412563 bytes).
+Output written on "/Users/pedro/Library/Mobile Documents/com~apple~CloudDocs/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (25 pages, 1413479 bytes).
 PDF statistics:
- 612 PDF objects out of 1000 (max. 8388607)
- 471 compressed objects within 5 object streams
+ 614 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
  77 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
