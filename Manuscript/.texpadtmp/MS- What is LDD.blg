@@ -4,46 +4,44 @@ The top-level auxiliary file: /Users/pedro/Library/Mobile Documents/com~apple~Cl
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Warning--empty series in Jordano:2007a
-You've used 31 entries,
+You've used 33 entries,
             3248 wiz_defined-function locations,
-            907 strings with 11597 characters,
-and the built_in function-call counts, 20081 in all, are:
-= -- 1644
-> -- 789
-< -- 21
-+ -- 303
-- -- 271
-* -- 1612
-:= -- 3001
-add.period$ -- 63
-call.type$ -- 31
-change.case$ -- 243
-chr.to.int$ -- 36
-cite$ -- 32
-duplicate$ -- 1547
-empty$ -- 1581
-format.name$ -- 357
-if$ -- 3976
+            922 strings with 12053 characters,
+and the built_in function-call counts, 21309 in all, are:
+= -- 1751
+> -- 844
+< -- 20
++ -- 325
+- -- 291
+* -- 1736
+:= -- 3190
+add.period$ -- 66
+call.type$ -- 33
+change.case$ -- 261
+chr.to.int$ -- 38
+cite$ -- 33
+duplicate$ -- 1630
+empty$ -- 1668
+format.name$ -- 386
+if$ -- 4203
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 338
-newline$ -- 103
-num.names$ -- 126
-pop$ -- 650
+missing$ -- 357
+newline$ -- 109
+num.names$ -- 132
+pop$ -- 680
 preamble$ -- 1
-purify$ -- 213
+purify$ -- 229
 quote$ -- 0
-skip$ -- 473
+skip$ -- 486
 stack$ -- 0
-substring$ -- 1063
-swap$ -- 824
-text.length$ -- 1
+substring$ -- 1140
+swap$ -- 869
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
-warning$ -- 1
-while$ -- 147
+type$ -- 288
+warning$ -- 0
+while$ -- 155
 width$ -- 0
-write$ -- 361
-(There was 1 warning)
+write$ -- 385

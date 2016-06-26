@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{33}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -37,6 +37,19 @@ D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
   (2013) {Self-recruitment in a Caribbean reef fish: a method for approximating
   dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
   n/a--n/a, \doi{10.1111/mec.12274}.
+
+\bibitem[{Garcia \emph{et~al.}(2005)Garcia, Arroyo, Godoy \&
+  Jordano}]{Garcia:2005fu}
+Garcia, C., Arroyo, J., Godoy, J. \& Jordano, P. (2005) {Mating patterns,
+  pollen dispersal, and the ecological maternal neighbourhood in a Prunus
+  mahaleb L. population}. \emph{Molecular Ecology}, \textbf{14}, 1821--1830,
+  \doi{10.1111/j.1365-294X.2005.02542.x}.
+
+\bibitem[{Garcia \emph{et~al.}(2007)Garcia, Jordano \& Godoy}]{Garcia:2007he}
+Garcia, C., Jordano, P. \& Godoy, J.A. (2007) {Contemporary pollen and seed
+  dispersal in a Prunus mahaleb population: patterns in distance and
+  direction}. \emph{Molecular Ecology}, \textbf{16}, 1947--1955,
+  \doi{10.1111/j.1365-294X.2006.03126.x}.
 
 \bibitem[{Garc{\'\i}a \& Borda-de {\'A}gua(2017)}]{Garcia:2017aa}
 Garc{\'\i}a, C. \& Borda-de {\'A}gua, L. (2017) Extended dispersal kernels:
@@ -80,12 +93,6 @@ Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
   classical and genetic methods}. \emph{Journal of Ecology}, \textbf{96}(4),
   642--652, \doi{10.1111/j.1365-2745.2008.01400.x}.
 
-\bibitem[{Jordano(2007)}]{Jordano:2007a}
-Jordano, P. (2007) {Frugivores, seeds, and genes: analysing the key components
-  of seed shadows}. \emph{Seed Dispersal: Theory and its Application in a
-  Changing World} (eds. A.J. Dennis, R.~Green, E.W. Schupp \& A.J. Wescott).
-  CAB International, Wallingford, UK, pp. 229--251.
-
 \bibitem[{Jordano \emph{et~al.}(2007)Jordano, Garc{\'\i}a, Godoy \&
   Garc{\'\i}a-Casta{\~n}o}]{Jordano:2007}
 Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
@@ -93,6 +100,12 @@ Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
   patterns.} \emph{Proceedings Of The National Academy Of Sciences Of The
   United States Of America}, \textbf{104}(9), 3278--3282,
   \doi{10.1073/pnas.0606793104}.
+
+\bibitem[{Jordano \& Schupp(2000)}]{Jordano:2000ft}
+Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity
+  component and patterns of seed rain for Prunus mahaleb}. \emph{Ecological
+  Monographs}, \textbf{70}(4), 591--615,
+  \doi{10.2307/2657187?ref=no-x-route:1d70d282eb4ed20cce6eac7274a631bb}.
 
 \bibitem[{Kinlan \emph{et~al.}(2005)Kinlan, Gaines \& Lester}]{Kinlan:2005fb}
 Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
