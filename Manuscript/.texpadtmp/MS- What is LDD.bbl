@@ -1,4 +1,4 @@
-\begin{thebibliography}{33}
+\begin{thebibliography}{42}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -37,6 +37,16 @@ D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
   (2013) {Self-recruitment in a Caribbean reef fish: a method for approximating
   dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
   n/a--n/a, \doi{10.1111/mec.12274}.
+
+\bibitem[{Galetti \emph{et~al.}(2013)Galetti, Guevara, C{\^o}rtes, Fadini,
+  Von~Matter, Leite, Labecca, Ribeiro, Carvalho, Collevatti, Pires, Guimaraes,
+  Brancalion, Ribeiro \& Jordano}]{Galetti:2013jv}
+Galetti, M., Guevara, R., C{\^o}rtes, M.C., Fadini, R., Von~Matter, S., Leite,
+  A.B., Labecca, F., Ribeiro, T., Carvalho, C.S., Collevatti, R.G., Pires,
+  M.M., Guimaraes, P.R., Brancalion, P.H., Ribeiro, M.C. \& Jordano, P. (2013)
+  {Functional extinction of birds drives rapid evolutionary changes in seed
+  size.} \emph{Science}, \textbf{340}(6136), 1086--1090,
+  \doi{10.1126/science.1233774}.
 
 \bibitem[{Garcia \emph{et~al.}(2005)Garcia, Arroyo, Godoy \&
   Jordano}]{Garcia:2005fu}
@@ -149,6 +159,15 @@ Nathan, R., Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A. \& Tsoar,
   \emph{Trends In Ecology {\&} Evolution}, \textbf{23}(11), 638--647,
   \doi{10.1016/j.tree.2008.08.003}.
 
+\bibitem[{Pratt(1984)}]{Pratt:1984ly}
+Pratt, T. (1984) {Examples of tropical frugivores defending fruit-bearing
+  plants}. \emph{Condor}, \textbf{86}, 123--129.
+
+\bibitem[{Pratt \& Stiles(1983)}]{Pratt:1983gf}
+Pratt, T. \& Stiles, E. (1983) {How long fruit-eating birds stay in the plants
+  where they feed - implications for seed dispersal}. \emph{The American
+  Naturalist}, \textbf{122}(6), 797--805.
+
 \bibitem[{Schupp(1995)}]{Schupp:1995}
 Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
   plant recruitment. \emph{American Journal of Botany}, \textbf{82}, 399--409,
@@ -169,11 +188,38 @@ Seidler, T.G. \& Plotkin, J.B. (2006) {Seed dispersal and spatial pattern in
 Slatkin, M. (1985) {Gene flow in natural populations}. \emph{Annual Review of
   Ecology Evolution and Systematics}, \doi{10.2307/2097054}.
 
+\bibitem[{Snow \& Snow(1984)}]{Snow:1984ul}
+Snow, B. \& Snow, D. (1984) {Long-term defence of fruit by mistle thrushes
+  Turdus viscivorus}. \emph{Ibis}, \textbf{126}, 39--49.
+
+\bibitem[{Snow \& Snow(1988)}]{Snow:1988ve}
+Snow, B. \& Snow, D. (1988) \emph{{Birds and berries}}. Poyser, Calton, UK.
+
+\bibitem[{Urban \& Keitt(2001)}]{Urban:2001}
+Urban, D. \& Keitt, T. (2001) {Landscape connectivity: a graph-theoretic
+  perspective}. \emph{Ecology}, \textbf{82}, 1205--1218.
+
+\bibitem[{vander Wall \& Longland(2004)}]{vanderWall:2004hv}
+vander Wall, S. \& Longland, W. (2004) {Diplochory: are two seed dispersers
+  better than one?} \emph{Trends In Ecology {\&} Evolution}, \textbf{19},
+  155--161, \doi{10.1016/j.tree.2003.12.004}.
+
 \bibitem[{Waples \& Gaggiotti(2006)}]{Waples:2006ev}
 Waples, R. \& Gaggiotti, O. (2006) {What is a population? An empirical
   evaluation of some genetic methods for identifying the number of gene pools
   and their degree of connectivity}. \emph{Molecular Ecology}, \textbf{15},
   1419--1439, \doi{10.1111/j.1365-294X.2006.02890.x}.
+
+\bibitem[{Westcott \emph{et~al.}(2005)Westcott, Bentrupperbaumer, Bradford \&
+  McKeown}]{Westcott:2005}
+Westcott, D.A., Bentrupperbaumer, J., Bradford, M.G. \& McKeown, A. (2005)
+  {Incorporating patterns of disperser behaviour into models of seed dispersal
+  and its effects on estimated dispersal curves}. \emph{Oecologia},
+  \textbf{146}, 57--67.
+
+\bibitem[{Wheelwright(1991)}]{Wheelwright:1991qf}
+Wheelwright, N. (1991) {How long do fruit-eating birds stay in the plants where
+  they feed?} \emph{Biotropica}, \textbf{23}(1), 29--40.
 
 \bibitem[{Wright(1943)}]{Wright:1943aa}
 Wright, S. (1943) {Isolation by distance}. \emph{Genetics}, \textbf{28},

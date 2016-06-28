@@ -3,45 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Library/Mobile Documents/com~apple~CloudDocs/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
+Warning--I didn't find a database entry for "Bueno:2013cg"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 33 entries,
+You've used 42 entries,
             3248 wiz_defined-function locations,
-            922 strings with 12053 characters,
-and the built_in function-call counts, 21309 in all, are:
-= -- 1751
-> -- 844
-< -- 20
-+ -- 325
-- -- 291
-* -- 1736
-:= -- 3190
-add.period$ -- 66
-call.type$ -- 33
-change.case$ -- 261
-chr.to.int$ -- 38
-cite$ -- 33
-duplicate$ -- 1630
-empty$ -- 1668
-format.name$ -- 386
-if$ -- 4203
+            989 strings with 13879 characters,
+and the built_in function-call counts, 27289 in all, are:
+= -- 2236
+> -- 1110
+< -- 27
++ -- 427
+- -- 384
+* -- 2221
+:= -- 4088
+add.period$ -- 84
+call.type$ -- 42
+change.case$ -- 336
+chr.to.int$ -- 47
+cite$ -- 42
+duplicate$ -- 2081
+empty$ -- 2117
+format.name$ -- 512
+if$ -- 5377
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 357
-newline$ -- 109
-num.names$ -- 132
-pop$ -- 680
+missing$ -- 460
+newline$ -- 136
+num.names$ -- 168
+pop$ -- 880
 preamble$ -- 1
-purify$ -- 229
+purify$ -- 296
 quote$ -- 0
-skip$ -- 486
+skip$ -- 621
 stack$ -- 0
-substring$ -- 1140
-swap$ -- 869
+substring$ -- 1433
+swap$ -- 1111
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 288
+type$ -- 366
 warning$ -- 0
-while$ -- 155
+while$ -- 198
 width$ -- 0
-write$ -- 385
+write$ -- 485
+(There was 1 warning)
