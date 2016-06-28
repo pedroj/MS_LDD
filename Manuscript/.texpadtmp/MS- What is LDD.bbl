@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{52}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,6 +7,20 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Bueno \emph{et~al.}(2013)Bueno, Guevara, Ribeiro, Culot, Bufalo \&
+  Galetti}]{Bueno:2013cg}
+Bueno, R.S., Guevara, R., Ribeiro, M.C., Culot, L., Bufalo, F.S. \& Galetti, M.
+  (2013) {Functional Redundancy and Complementarities of Seed Dispersal by the
+  Last Neotropical Megafrugivores}. \emph{PLoS ONE}, \textbf{8}(2), e56252,
+  \doi{10.1371/journal.pone.0056252.s003}.
+
+\bibitem[{Carlo \emph{et~al.}(2013)Carlo, Garc{\'\i}a, Mart{\'\i}nez, Gleditsch
+  \& Morales}]{Carlo:2013vd}
+Carlo, T.A., Garc{\'\i}a, D., Mart{\'\i}nez, D., Gleditsch, J.M. \& Morales,
+  J.M. (2013) {Where do seeds go when they go far? Distance and directionality
+  of avian seed dispersal in heterogeneous landscapes.} \emph{Ecology},
+  \textbf{94}(2), 301--307.
 
 \bibitem[{Carlo \emph{et~al.}(2009)Carlo, Tewksbury, Mart{\'\i}nez \&
   Mart}]{Carlo:2009wa}
@@ -89,6 +103,13 @@ Hardesty, B.D., Hubbell, S.P. \& Bermingham, E. (2006) {Genetic evidence of
   frequent long-distance recruitment in a vertebrate-dispersed tree}.
   \emph{Ecology Letters}, \textbf{9}, 516--525.
 
+\bibitem[{Hardesty \emph{et~al.}(2011)Hardesty, Metcalfe \&
+  Westcott}]{Hardesty:2011jn}
+Hardesty, B.D., Metcalfe, S.S. \& Westcott, D.A. (2011) {Persistence and spread
+  in a new landscape: Dispersal ecology and genetics of Miconia invasions in
+  Australia}. \emph{Acta Oecologica}, \textbf{37}(6), 657--665,
+  \doi{10.1016/j.actao.2011.06.006}.
+
 \bibitem[{Harper(1977)}]{Harper:1977aa}
 Harper, J. (1977) \emph{Population Biology of Plants}, 1st edn. Academic Press,
   London.
@@ -111,6 +132,12 @@ Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
   United States Of America}, \textbf{104}(9), 3278--3282,
   \doi{10.1073/pnas.0606793104}.
 
+\bibitem[{Jordano \& Godoy(2002)}]{Jordano:2002tr}
+Jordano, P. \& Godoy, J. (2002) {Frugivore-generated seed shadows: a landscape
+  view of demographic and genetic effects}. \emph{Seed dispersal and frugivory:
+  ecology, evolution, and conservation} (eds. D.~Levey, W.~Silva \&
+  M.~Galetti). Book chapter, Wallingford, UK, pp. 305--321.
+
 \bibitem[{Jordano \& Schupp(2000)}]{Jordano:2000ft}
 Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity
   component and patterns of seed rain for Prunus mahaleb}. \emph{Ecological
@@ -132,9 +159,23 @@ Kramer, A., Ison, J., Ashley, M. \& Howe, H. (2008) {The paradox of forest
 Levin, D.A. (1988) {The paternity pools of plants}. \emph{The American
   Naturalist}, \textbf{132}, 309--317, \doi{10.2307/2461984}.
 
+\bibitem[{Morales \emph{et~al.}(2013)Morales, Garc{\'\i}a, Mart{\'\i}nez,
+  Rodr{\'\i}guez-P{\'e}rez \& Herrera}]{Morales:2013dg}
+Morales, J.M., Garc{\'\i}a, D., Mart{\'\i}nez, D., Rodr{\'\i}guez-P{\'e}rez, J.
+  \& Herrera, J.M. (2013) {Frugivore Behavioural Details Matter for Seed
+  Dispersal: A Multi-Species Model for Cantabrian Thrushes and Trees}.
+  \emph{PLoS ONE}, \textbf{8}(6), e65216,
+  \doi{10.1371/journal.pone.0065216.s005}.
+
 \bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{Nason:1998aa}
 Nason, J.D., Herre, E. \& Hamrick, J.L. (1998) {The breeding structure of a
   tropical keystone plant resource}. \emph{Nature}, \textbf{391}, 685--687.
+
+\bibitem[{Nathan \emph{et~al.}(2003)Nathan, Perry, Cronin, Strand \&
+  Cain}]{Nathan:2003qe}
+Nathan, R., Perry, G., Cronin, J.T., Strand, A.E. \& Cain, M.L. (2003) {Methods
+  for estimating long-distance dispersal}. \emph{Oikos}, \textbf{103},
+  261--273.
 
 \bibitem[{Nathan(2005)}]{Nathan:2005jc}
 Nathan, R. (2005) {Long-distance dispersal research: building a network of
@@ -158,6 +199,20 @@ Nathan, R., Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A. \& Tsoar,
   A. (2008{\natexlab{b}}) {Mechanisms of long-distance seed dispersal}.
   \emph{Trends In Ecology {\&} Evolution}, \textbf{23}(11), 638--647,
   \doi{10.1016/j.tree.2008.08.003}.
+
+\bibitem[{P{\'e}rez-M{\'e}ndez \emph{et~al.}(2015)P{\'e}rez-M{\'e}ndez, Jordano
+  \& Valido}]{PerezMendez:2015hya}
+P{\'e}rez-M{\'e}ndez, N., Jordano, P. \& Valido, A. (2015) {Downsized
+  mutualisms: Consequences of seed dispersers{\textquoteright} body-size
+  reduction for early plant recruitment}. \emph{Perspectives In Plant Ecology
+  Evolution And Systematics}, \textbf{17}(2), 151--159,
+  \doi{10.1016/j.ppees.2014.12.001}.
+
+\bibitem[{P{\'e}rez-M{\'e}ndez \emph{et~al.}(2016)P{\'e}rez-M{\'e}ndez, Jordano
+  \& Valido}]{Perez-Mendez:2016dz}
+P{\'e}rez-M{\'e}ndez, N., Jordano, P. \& Valido, A. (2016) Persisting in
+  defaunated landscapes: reduced plant population connectivity after seed
+  dispersal collapse. \emph{In 2nd. review}.
 
 \bibitem[{Pratt(1984)}]{Pratt:1984ly}
 Pratt, T. (1984) {Examples of tropical frugivores defending fruit-bearing
@@ -194,6 +249,18 @@ Snow, B. \& Snow, D. (1984) {Long-term defence of fruit by mistle thrushes
 
 \bibitem[{Snow \& Snow(1988)}]{Snow:1988ve}
 Snow, B. \& Snow, D. (1988) \emph{{Birds and berries}}. Poyser, Calton, UK.
+
+\bibitem[{Sork \emph{et~al.}(1999)Sork, Nason, Campbell \&
+  Fern{\'a}ndez}]{Sork:1999}
+Sork, V., Nason, J., Campbell, D. \& Fern{\'a}ndez, J. (1999) {Landscape
+  approaches to historical and contemporary gene flow in plants}. \emph{Trends
+  In Ecology {\&} Evolution}, \textbf{14}, 224--224.
+
+\bibitem[{Traveset \emph{et~al.}(2012)Traveset, Gonz{\'a}lez-Varo \&
+  Valido}]{Traveset:2012he}
+Traveset, A., Gonz{\'a}lez-Varo, J.P. \& Valido, A. (2012) {Long-term
+  demographic consequences of a seed dispersal disruption}. \emph{Proceedings
+  Of The Royal Society B-Biological Sciences}, \doi{10.1098/rspb.2012.0535}.
 
 \bibitem[{Urban \& Keitt(2001)}]{Urban:2001}
 Urban, D. \& Keitt, T. (2001) {Landscape connectivity: a graph-theoretic
