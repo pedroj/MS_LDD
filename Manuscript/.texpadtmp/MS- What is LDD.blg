@@ -1,13 +1,13 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/pedro/Library/Mobile Documents/com~apple~CloudDocs/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
+The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty series in Jordano:2002tr
 You've used 52 entries,
             3248 wiz_defined-function locations,
-            1066 strings with 16840 characters,
+            1066 strings with 16770 characters,
 and the built_in function-call counts, 34406 in all, are:
 = -- 2795
 > -- 1452
