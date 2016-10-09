@@ -3,47 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
+Warning--I didn't find a database entry for "Westcott:200"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty series in Jordano:2007a
 Warning--empty series in Jordano:2002tr
-You've used 52 entries,
+Warning--empty series in Nathan:2002a
+You've used 55 entries,
             3248 wiz_defined-function locations,
-            1066 strings with 16770 characters,
-and the built_in function-call counts, 34406 in all, are:
-= -- 2795
-> -- 1452
-< -- 29
-+ -- 557
-- -- 504
-* -- 2834
-:= -- 5147
-add.period$ -- 105
-call.type$ -- 52
-change.case$ -- 425
-chr.to.int$ -- 57
-cite$ -- 53
-duplicate$ -- 2629
-empty$ -- 2639
-format.name$ -- 665
-if$ -- 6769
+            1092 strings with 17673 characters,
+and the built_in function-call counts, 36850 in all, are:
+= -- 2985
+> -- 1553
+< -- 32
++ -- 594
+- -- 538
+* -- 3027
+:= -- 5491
+add.period$ -- 113
+call.type$ -- 55
+change.case$ -- 449
+chr.to.int$ -- 60
+cite$ -- 58
+duplicate$ -- 2831
+empty$ -- 2834
+format.name$ -- 708
+if$ -- 7271
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 579
-newline$ -- 166
-num.names$ -- 210
-pop$ -- 1119
+missing$ -- 621
+newline$ -- 175
+num.names$ -- 226
+pop$ -- 1205
 preamble$ -- 1
-purify$ -- 375
+purify$ -- 396
 quote$ -- 0
-skip$ -- 779
+skip$ -- 847
 stack$ -- 0
-substring$ -- 1736
-swap$ -- 1425
-text.length$ -- 1
+substring$ -- 1843
+swap$ -- 1548
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 456
-warning$ -- 1
-while$ -- 244
+type$ -- 483
+warning$ -- 3
+while$ -- 262
 width$ -- 0
-write$ -- 599
-(There was 1 warning)
+write$ -- 635
+(There were 4 warnings)

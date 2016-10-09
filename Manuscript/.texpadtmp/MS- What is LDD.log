@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  9 OCT 2016 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  9 OCT 2016 21:47
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -504,7 +504,11 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+ [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+
+Package natbib Warning: Citation `Westcott:200' on page 18 undefined on input line 157.
+
+[18] [19] [20]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -532,22 +536,24 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≠ in font cmr12!
  [22] (/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.bbl [23] [24] [25]
-Underfull \hbox (badness 2922) in paragraph at lines 142--146
+Underfull \hbox (badness 2922) in paragraph at lines 155--159
 \OT1/cmr/m/n/12 tity com-po-nent and pat-terns of seed rain for Prunus ma-haleb. \OT1/cmr/m/it/12 Eco-
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 142--146
+Underfull \hbox (badness 3138) in paragraph at lines 155--159
 \OT1/cmr/m/it/12 log-i-cal Mono-graphs\OT1/cmr/m/n/12 , \OT1/cmr/bx/n/12 70\OT1/cmr/m/n/12 (4), 591--615, doi:$10 . 2307 / 2657187 ? ref = no-[]x-[]route :
  []
 
-[26] [27] [28]) [29]
+[26] [27] [28] [29]) [30]
 Overfull \hbox (77.16423pt too wide) in paragraph at lines 210--221
 [][] 
  []
 
-[30]
+[31]
 Overfull \hbox (2.98885pt too wide) in paragraph at lines 231--231
 [] [] 
  []
@@ -617,7 +623,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--235
 \OT1/cmr/m/n/12 long-distance
  []
 
-[31]
+[32]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -640,7 +646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-[32
+[33
 
 
 
@@ -655,7 +661,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-[33] <Fig1.pdf, id=404, 597.23125pt x 845.1575pt>
+[34] <Fig1.pdf, id=425, 597.23125pt x 845.1575pt>
 File: Fig1.pdf Graphic file (type pdf)
  <use Fig1.pdf>
 Package pdftex.def Info: Fig1.pdf used on input line 267.
@@ -664,7 +670,7 @@ Package pdftex.def Info: Fig1.pdf used on input line 267.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 270.
 
-<Fig2.pdf, id=405, 597.23125pt x 845.1575pt>
+<Fig2.pdf, id=426, 597.23125pt x 845.1575pt>
 File: Fig2.pdf Graphic file (type pdf)
  <use Fig2.pdf>
 Package pdftex.def Info: Fig2.pdf used on input line 276.
@@ -673,7 +679,7 @@ Package pdftex.def Info: Fig2.pdf used on input line 276.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 279.
 
-<Fig3.pdf, id=406, 597.23125pt x 845.1575pt>
+<Fig3.pdf, id=427, 597.23125pt x 845.1575pt>
 File: Fig3.pdf Graphic file (type pdf)
  <use Fig3.pdf>
 Package pdftex.def Info: Fig3.pdf used on input line 285.
@@ -682,7 +688,7 @@ Package pdftex.def Info: Fig3.pdf used on input line 285.
 
 LaTeX Warning: Float too large for page by 148.24146pt on input line 288.
 
-<Fig4.pdf, id=407, 597.23125pt x 845.1575pt>
+<Fig4.pdf, id=428, 597.23125pt x 845.1575pt>
 File: Fig4.pdf Graphic file (type pdf)
  <use Fig4.pdf>
 Package pdftex.def Info: Fig4.pdf used on input line 295.
@@ -691,8 +697,11 @@ Package pdftex.def Info: Fig4.pdf used on input line 295.
 
 LaTeX Warning: Float too large for page by 148.24146pt on input line 298.
 
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
-[34] [35 <./Fig1.pdf>] [36 <./Fig2.pdf>] [37 <./Fig3.pdf>] [38 <./Fig4.pdf>]
+[35] [36 <./Fig1.pdf>] [37 <./Fig2.pdf>] [38 <./Fig3.pdf>] [39 <./Fig4.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
  (/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
@@ -702,18 +711,18 @@ Package rerunfilecheck Info: File `"MS- What is LDD".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 8472 strings out of 493089
- 126163 string characters out of 6134843
- 220632 words of memory out of 5000000
- 11728 multiletter control sequences out of 15000+600000
+ 8480 strings out of 493089
+ 126281 string characters out of 6134843
+ 220795 words of memory out of 5000000
+ 11732 multiletter control sequences out of 15000+600000
  15421 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,43p,2182b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,43p,2182b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (38 pages, 7448232 bytes).
+Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (39 pages, 7449867 bytes).
 PDF statistics:
- 1013 PDF objects out of 1200 (max. 8388607)
- 515 compressed objects within 6 object streams
- 109 named destinations out of 1000 (max. 500000)
+ 1034 PDF objects out of 1200 (max. 8388607)
+ 535 compressed objects within 6 object streams
+ 113 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

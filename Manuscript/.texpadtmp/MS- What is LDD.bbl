@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{55}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -92,6 +92,13 @@ Gonz{\'a}lez-Varo, J.P., Arroyo, J.M. \& Jordano, P. (2014) {Who dispersed the
   \emph{Methods in Ecology and Evolution}, \textbf{5}(8), 806--814,
   \doi{10.1111/2041-210X.12212}.
 
+\bibitem[{Guttal \emph{et~al.}(2011)Guttal, Bartumeus, Hartvigsen \&
+  Nevai}]{Guttal:2011hs}
+Guttal, V., Bartumeus, F., Hartvigsen, G. \& Nevai, A.L. (2011) {Retention Time
+  Variability as a Mechanism for Animal Mediated Long-Distance Dispersal}.
+  \emph{PLoS ONE}, \textbf{6}(12), e28447,
+  \doi{10.1371/journal.pone.0028447.t003}.
+
 \bibitem[{Hampe \& Jump(2011)}]{Hampe:2011bv}
 Hampe, A. \& Jump, A.S. (2011) {Climate Relicts: Past, Present, Future}.
   \emph{Annual Review of Ecology Evolution and Systematics}, \textbf{42}(1),
@@ -123,6 +130,12 @@ Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
   dispersal in complex natural environments: an evaluation and integration of
   classical and genetic methods}. \emph{Journal of Ecology}, \textbf{96}(4),
   642--652, \doi{10.1111/j.1365-2745.2008.01400.x}.
+
+\bibitem[{Jordano(2007)}]{Jordano:2007a}
+Jordano, P. (2007) {Frugivores, seeds, and genes: analysing the key components
+  of seed shadows}. \emph{Seed Dispersal: Theory and its Application in a
+  Changing World} (eds. A.J. Dennis, R.~Green, E.W. Schupp \& A.J. Wescott).
+  CAB International, Wallingford, UK, pp. 229--251.
 
 \bibitem[{Jordano \emph{et~al.}(2007)Jordano, Garc{\'\i}a, Godoy \&
   Garc{\'\i}a-Casta{\~n}o}]{Jordano:2007}
@@ -170,6 +183,14 @@ Morales, J.M., Garc{\'\i}a, D., Mart{\'\i}nez, D., Rodr{\'\i}guez-P{\'e}rez, J.
 \bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{Nason:1998aa}
 Nason, J.D., Herre, E. \& Hamrick, J.L. (1998) {The breeding structure of a
   tropical keystone plant resource}. \emph{Nature}, \textbf{391}, 685--687.
+
+\bibitem[{Nathan \emph{et~al.}(2002)Nathan, Horn, Chave \&
+  Levin}]{Nathan:2002a}
+Nathan, R., Horn, H.S., Chave, J. \& Levin, S.A. (2002) {Mechanistic models for
+  tree seed dispersal by wind in dense forests and open landscapes}. \emph{Seed
+  dispersal and frugivory: ecology, evolution and conservation} (eds. D.J.
+  Levey, W.R. Silva \& M.~Galetti). Commonwealth Agricultural Bureau
+  International, Wallingford, UK, pp. 69--82.
 
 \bibitem[{Nathan \emph{et~al.}(2003)Nathan, Perry, Cronin, Strand \&
   Cain}]{Nathan:2003qe}
