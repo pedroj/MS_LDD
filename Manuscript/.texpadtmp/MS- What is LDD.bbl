@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{61}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,6 +7,11 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Baguette \& Schtickzelle(2006)}]{Baguette:2006aa}
+Baguette, M. \& Schtickzelle, N. (2006) {Negative relationship between
+  dispersal distance and demography in butterfly metapopulations}.
+  \emph{Ecology}, \textbf{87}, 648--654.
 
 \bibitem[{Bueno \emph{et~al.}(2013)Bueno, Guevara, Ribeiro, Culot, Bufalo \&
   Galetti}]{Bueno:2013cg}
@@ -40,6 +45,12 @@ Clark, J.S., Fastie, C., Hurtt, G.C., Jackson, S.T., Johnson, C., King, G.,
 Clark, J. (1998) {Why trees migrate so fast: Confronting theory with dispersal
   biology and the paleorecord}. \emph{The American Naturalist}, \textbf{152},
   204--224.
+
+\bibitem[{Clobert \emph{et~al.}(2012)Clobert, Baguette, Benton, Bullock \&
+  Ducatez}]{Clobert:2012vw}
+Clobert, J., Baguette, M., Benton, M.J., Bullock, J.M. \& Ducatez, S. (2012)
+  \emph{{Dispersal ecology and evolution}}. Oxford University Press, Oxford,
+  UK.
 
 \bibitem[{Cousens \emph{et~al.}(2008)Cousens, Dytham \& Law}]{Cousens:2008aa}
 Cousens, R.D., Dytham, C. \& Law, R. (2008) \emph{{Dispersal in plants. A
@@ -244,6 +255,18 @@ Pratt, T. \& Stiles, E. (1983) {How long fruit-eating birds stay in the plants
   where they feed - implications for seed dispersal}. \emph{The American
   Naturalist}, \textbf{122}(6), 797--805.
 
+\bibitem[{Ronce(2007)}]{Ronce:2007hc}
+Ronce, O. (2007) {How does it feel to be like a rolling stone? Ten questions
+  about dispersal evolution}. \emph{Annual Review of Ecology Evolution and
+  Systematics}, \textbf{38}(1), 231--253,
+  \doi{10.1146/annurev.ecolsys.38.091206.095611}.
+
+\bibitem[{Schloss \emph{et~al.}(2012)Schloss, Nunez \& Lawler}]{Schloss:2012gt}
+Schloss, C.A., Nunez, T.A. \& Lawler, J.J. (2012) {Dispersal will limit ability
+  of mammals to track climate change in the Western Hemisphere}.
+  \emph{Proceedings of the National Academy of Sciences USA}, \textbf{109}(22),
+  8606--8611, \doi{10.1073/pnas.1116791109}.
+
 \bibitem[{Schupp(1995)}]{Schupp:1995}
 Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
   plant recruitment. \emph{American Journal of Botany}, \textbf{82}, 399--409,
@@ -277,11 +300,27 @@ Sork, V., Nason, J., Campbell, D. \& Fern{\'a}ndez, J. (1999) {Landscape
   approaches to historical and contemporary gene flow in plants}. \emph{Trends
   In Ecology {\&} Evolution}, \textbf{14}, 224--224.
 
+\bibitem[{Trakhtenbrot \emph{et~al.}(2005)Trakhtenbrot, Nathan, Perry \&
+  Richardson}]{Trakhtenbrot:2005ij}
+Trakhtenbrot, A., Nathan, R., Perry, G. \& Richardson, D. (2005) {The
+  importance of long-distance dispersal in biodiversity conservation}.
+  \emph{Diversity And Distributions}, \textbf{11}, 173--181,
+  \doi{10.1111/j.1366-9516.2005.00156.x}.
+
 \bibitem[{Traveset \emph{et~al.}(2012)Traveset, Gonz{\'a}lez-Varo \&
   Valido}]{Traveset:2012he}
 Traveset, A., Gonz{\'a}lez-Varo, J.P. \& Valido, A. (2012) {Long-term
   demographic consequences of a seed dispersal disruption}. \emph{Proceedings
   Of The Royal Society B-Biological Sciences}, \doi{10.1098/rspb.2012.0535}.
+
+\bibitem[{Travis \emph{et~al.}(2013)Travis, Delgado, Bocedi, Baguette,
+  Barto{\'{n}}, Bonte, Boulangeat, Hodgson, Kubisch, Penteriani, Saastamoinen,
+  Stevens \& Bullock}]{Travis:2013en}
+Travis, J.M.J., Delgado, M., Bocedi, G., Baguette, M., Barto{\'{n}}, K., Bonte,
+  D., Boulangeat, I., Hodgson, J.A., Kubisch, A., Penteriani, V., Saastamoinen,
+  M., Stevens, V.M. \& Bullock, J.M. (2013) {Dispersal and
+  species{\textquoteright} responses to climate change}. \emph{Oikos},
+  \textbf{122}(11), 1532--1540, \doi{10.1111/j.1600-0706.2013.00399.x}.
 
 \bibitem[{Urban \& Keitt(2001)}]{Urban:2001}
 Urban, D. \& Keitt, T. (2001) {Landscape connectivity: a graph-theoretic

@@ -5,48 +5,49 @@ The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
 Warning--I didn't find a database entry for "Westcott:200"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--can't use both author and editor fields in Clobert:2012vw
 Warning--empty series in Jordano:2007a
 Warning--empty series in Jordano:2002tr
 Warning--empty series in Nathan:2002a
-You've used 55 entries,
+You've used 61 entries,
             3248 wiz_defined-function locations,
-            1092 strings with 17673 characters,
-and the built_in function-call counts, 36850 in all, are:
-= -- 2985
-> -- 1553
-< -- 32
-+ -- 594
-- -- 538
-* -- 3027
-:= -- 5491
-add.period$ -- 113
-call.type$ -- 55
-change.case$ -- 449
-chr.to.int$ -- 60
-cite$ -- 58
-duplicate$ -- 2831
-empty$ -- 2834
-format.name$ -- 708
-if$ -- 7271
+            1132 strings with 19199 characters,
+and the built_in function-call counts, 41293 in all, are:
+= -- 3325
+> -- 1789
+< -- 34
++ -- 684
+- -- 622
+* -- 3419
+:= -- 6160
+add.period$ -- 125
+call.type$ -- 61
+change.case$ -- 506
+chr.to.int$ -- 66
+cite$ -- 65
+duplicate$ -- 3153
+empty$ -- 3152
+format.name$ -- 810
+if$ -- 8131
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 621
-newline$ -- 175
-num.names$ -- 226
-pop$ -- 1205
+missing$ -- 697
+newline$ -- 193
+num.names$ -- 250
+pop$ -- 1348
 preamble$ -- 1
-purify$ -- 396
+purify$ -- 448
 quote$ -- 0
-skip$ -- 847
+skip$ -- 934
 stack$ -- 0
-substring$ -- 1843
-swap$ -- 1548
+substring$ -- 2046
+swap$ -- 1736
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 483
-warning$ -- 3
-while$ -- 262
+type$ -- 534
+warning$ -- 4
+while$ -- 290
 width$ -- 0
-write$ -- 635
-(There were 4 warnings)
+write$ -- 704
+(There were 5 warnings)
