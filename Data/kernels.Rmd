@@ -2,8 +2,8 @@
 title: "Density estimations for dispersal kernels"
 author: "Pedro Jordano"
 date: "enero 29, 2015"
-output: html_document
-bibliography: refs.bib
+output: html_notebook
+#bibliography: refs.bib
 ---
 
 Code for ploting different forms of dispersal kernels and testing dispersal model functions.  
@@ -22,7 +22,7 @@ require(adehabitatHS)               # For simulations of Levy walks
 
 # Prunus mahaleb dispersal distances data. -------------------------------
 # Get the data from my GitHub repository.
-link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/Datasets/distances.txt"
+link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/distances.txt"
 file = "distances.txt"
 if(!file.exists(file)) download(link, file, mode = "wb")
 assdist <- read.table(file, sep = "\t", dec = ",", 
@@ -49,8 +49,9 @@ rug(x,side=1,col="red")
 # dd<- rweibull(1000, shape= 1, scale = 3.5)   # Weibull distrib.
 # dd<- rgamma(1000, scale= 100, shape= 10)     # Gamma distrib.
                                                # req. adehabitatHS
-dd<- as.data.frame(simm.levy(1:1000, mu = 1.5, burst = "mu = 1.5")) 
-dd<- na.omit(dd$dist)
+library(adehabitatHS)
+dd<- simm.levy(1:1000, mu = 1.5, burst = "mu = 1.5")
+dd<- na.omit(dd[[1]]$dist)
 
 # Sourcing the kernel function code from GitHub.
 link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/functions/mykernel.R"
