@@ -22,7 +22,7 @@ require(adehabitatHS)               # For simulations of Levy walks
 
 # Prunus mahaleb dispersal distances data. -------------------------------
 # Get the data from my GitHub repository.
-link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/distances.txt"
+link = "https://raw.githubusercontent.com/pedroj/dispkernels/master/Datasets/distances.txt"
 file = "distances.txt"
 if(!file.exists(file)) download(link, file, mode = "wb")
 assdist <- read.table(file, sep = "\t", dec = ",", 
