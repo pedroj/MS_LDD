@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{65}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -19,6 +19,14 @@ Bueno, R.S., Guevara, R., Ribeiro, M.C., Culot, L., Bufalo, F.S. \& Galetti, M.
   (2013) {Functional Redundancy and Complementarities of Seed Dispersal by the
   Last Neotropical Megafrugivores}. \emph{PLoS ONE}, \textbf{8}(2), e56252,
   \doi{10.1371/journal.pone.0056252.s003}.
+
+\bibitem[{Byrne \emph{et~al.}(2014)Byrne, Quinn, O'Keeffe, Green,
+  Paddy~Sleeman, Wayne~Martin \& Davenport}]{Byrne:2014gu}
+Byrne, A.W., Quinn, J.L., O'Keeffe, J.J., Green, S., Paddy~Sleeman, D.,
+  Wayne~Martin, S. \& Davenport, J. (2014) {Large-scale movements in European
+  badgers: has the tail of the movement kernel been underestimated?}
+  \emph{Journal of Animal Ecology}, \textbf{83}(4), 991--1001,
+  \doi{10.1111/1365-2656.12197}.
 
 \bibitem[{Carlo \emph{et~al.}(2013)Carlo, Garc{\'\i}a, Mart{\'\i}nez, Gleditsch
   \& Morales}]{Carlo:2013vd}
@@ -62,6 +70,13 @@ D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
   (2013) {Self-recruitment in a Caribbean reef fish: a method for approximating
   dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
   n/a--n/a, \doi{10.1111/mec.12274}.
+
+\bibitem[{Dutech \emph{et~al.}(2005)Dutech, Sork, Irwin, Smouse \&
+  Davis}]{Dutech:2005fk}
+Dutech, C., Sork, V.L., Irwin, A.J., Smouse, P.E. \& Davis, F.W. (2005) {Gene
+  flow and fine-scale genetic structure in a wind-pollinated tree species
+  Quercus lobata (Fagaceaee)}. \emph{American Journal of Botany}, \textbf{92},
+  252--261.
 
 \bibitem[{Galetti \emph{et~al.}(2013)Galetti, Guevara, C{\^o}rtes, Fadini,
   Von~Matter, Leite, Labecca, Ribeiro, Carvalho, Collevatti, Pires, Guimaraes,
@@ -287,6 +302,12 @@ Seidler, T.G. \& Plotkin, J.B. (2006) {Seed dispersal and spatial pattern in
 Slatkin, M. (1985) {Gene flow in natural populations}. \emph{Annual Review of
   Ecology Evolution and Systematics}, \doi{10.2307/2097054}.
 
+\bibitem[{Smouse \emph{et~al.}(2001)Smouse, Dyer, Westfall \&
+  Sork}]{Smouse:2001aa}
+Smouse, P.E., Dyer, R.J., Westfall, R.D. \& Sork, V.L. (2001) {Two-generation
+  analysis of pollen flow across a landscape. I. Male gamete heterogeneity
+  among females}. \emph{Evolution}, \textbf{55}(2), 260--271.
+
 \bibitem[{Snow \& Snow(1984)}]{Snow:1984ul}
 Snow, B. \& Snow, D. (1984) {Long-term defence of fruit by mistle thrushes
   Turdus viscivorus}. \emph{Ibis}, \textbf{126}, 39--49.
@@ -299,6 +320,13 @@ Snow, B. \& Snow, D. (1988) \emph{{Birds and berries}}. Poyser, Calton, UK.
 Sork, V., Nason, J., Campbell, D. \& Fern{\'a}ndez, J. (1999) {Landscape
   approaches to historical and contemporary gene flow in plants}. \emph{Trends
   In Ecology {\&} Evolution}, \textbf{14}, 224--224.
+
+\bibitem[{Streiff \emph{et~al.}(1999)Streiff, Ducousso, Lexer, Steinkellner,
+  Gloessl \& Kremer}]{Streiff99}
+Streiff, R., Ducousso, A., Lexer, C., Steinkellner, H., Gloessl, J. \& Kremer,
+  A. (1999) {Pollen dispersal inferred from paternity analysis in a mixed oak
+  stand of Quercus robur L. and Q. petraea (Matt.) Liebl.} \emph{Molecular
+  Ecology}, \textbf{8}, 831--841.
 
 \bibitem[{Trakhtenbrot \emph{et~al.}(2005)Trakhtenbrot, Nathan, Perry \&
   Richardson}]{Trakhtenbrot:2005ij}
