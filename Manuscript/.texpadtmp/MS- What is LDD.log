@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  10 OCT 2016 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  10 OCT 2016 22:58
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -659,7 +659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-[37] <Fig1.pdf, id=487, 597.23125pt x 845.1575pt>
+[37] <Fig1.pdf, id=495, 597.23125pt x 845.1575pt>
 File: Fig1.pdf Graphic file (type pdf)
  <use Fig1.pdf>
 Package pdftex.def Info: Fig1.pdf used on input line 267.
@@ -668,7 +668,7 @@ Package pdftex.def Info: Fig1.pdf used on input line 267.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 270.
 
-<Fig2.pdf, id=488, 597.23125pt x 845.1575pt>
+<Fig2.pdf, id=496, 597.23125pt x 845.1575pt>
 File: Fig2.pdf Graphic file (type pdf)
  <use Fig2.pdf>
 Package pdftex.def Info: Fig2.pdf used on input line 276.
@@ -677,7 +677,7 @@ Package pdftex.def Info: Fig2.pdf used on input line 276.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 279.
 
-<Fig3.pdf, id=489, 597.23125pt x 845.1575pt>
+<Fig3.pdf, id=497, 597.23125pt x 845.1575pt>
 File: Fig3.pdf Graphic file (type pdf)
  <use Fig3.pdf>
 Package pdftex.def Info: Fig3.pdf used on input line 285.
@@ -686,7 +686,7 @@ Package pdftex.def Info: Fig3.pdf used on input line 285.
 
 LaTeX Warning: Float too large for page by 148.24146pt on input line 288.
 
-<Fig4.pdf, id=490, 597.23125pt x 845.1575pt>
+<Fig4.pdf, id=498, 597.23125pt x 845.1575pt>
 File: Fig4.pdf Graphic file (type pdf)
  <use Fig4.pdf>
 Package pdftex.def Info: Fig4.pdf used on input line 295.
@@ -709,18 +709,18 @@ Package rerunfilecheck Info: File `"MS- What is LDD".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 8504 strings out of 493089
- 126651 string characters out of 6134843
- 223584 words of memory out of 5000000
- 11743 multiletter control sequences out of 15000+600000
+ 8508 strings out of 493089
+ 126725 string characters out of 6134843
+ 223734 words of memory out of 5000000
+ 11745 multiletter control sequences out of 15000+600000
  15421 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,43p,2652b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,12n,43p,2652b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (42 pages, 7456578 bytes).
+Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (42 pages, 7457745 bytes).
 PDF statistics:
- 1096 PDF objects out of 1200 (max. 8388607)
- 594 compressed objects within 6 object streams
- 126 named destinations out of 1000 (max. 500000)
+ 1106 PDF objects out of 1200 (max. 8388607)
+ 603 compressed objects within 7 object streams
+ 128 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

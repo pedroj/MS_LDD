@@ -3,51 +3,55 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
+Repeated entry---line 3089 of file ../MS_BES.bib
+ : @article{Scofield:2012gk
+ :                         ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Westcott:200"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--can't use both author and editor fields in Clobert:2012vw
 Warning--empty series in Jordano:2007a
 Warning--empty series in Jordano:2002tr
 Warning--empty series in Nathan:2002a
-You've used 65 entries,
+You've used 67 entries,
             3248 wiz_defined-function locations,
-            1159 strings with 20228 characters,
-and the built_in function-call counts, 44479 in all, are:
-= -- 3567
-> -- 1973
+            1174 strings with 20760 characters,
+and the built_in function-call counts, 46004 in all, are:
+= -- 3687
+> -- 2049
 < -- 34
-+ -- 754
-- -- 688
-* -- 3707
-:= -- 6640
-add.period$ -- 133
-call.type$ -- 65
-change.case$ -- 548
-chr.to.int$ -- 70
-cite$ -- 69
-duplicate$ -- 3378
-empty$ -- 3368
-format.name$ -- 888
-if$ -- 8741
++ -- 783
+- -- 715
+* -- 3847
+:= -- 6865
+add.period$ -- 137
+call.type$ -- 67
+change.case$ -- 567
+chr.to.int$ -- 72
+cite$ -- 71
+duplicate$ -- 3490
+empty$ -- 3479
+format.name$ -- 921
+if$ -- 9036
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 751
-newline$ -- 205
-num.names$ -- 266
-pop$ -- 1452
+missing$ -- 776
+newline$ -- 211
+num.names$ -- 274
+pop$ -- 1496
 preamble$ -- 1
-purify$ -- 486
+purify$ -- 503
 quote$ -- 0
-skip$ -- 993
+skip$ -- 1021
 stack$ -- 0
-substring$ -- 2193
-swap$ -- 1870
+substring$ -- 2271
+swap$ -- 1940
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 570
+type$ -- 588
 warning$ -- 4
-while$ -- 310
+while$ -- 320
 width$ -- 0
-write$ -- 749
-(There were 5 warnings)
+write$ -- 773
+(There was 1 error message)

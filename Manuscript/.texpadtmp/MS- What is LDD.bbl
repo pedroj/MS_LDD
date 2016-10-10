@@ -1,4 +1,4 @@
-\begin{thebibliography}{65}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -183,6 +183,13 @@ Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity
   Monographs}, \textbf{70}(4), 591--615,
   \doi{10.2307/2657187?ref=no-x-route:1d70d282eb4ed20cce6eac7274a631bb}.
 
+\bibitem[{Karubian \emph{et~al.}(2010)Karubian, Sork, Roorda, Dur{\~a}es \&
+  Smith}]{Karubian:2010br}
+Karubian, J., Sork, V.L., Roorda, T., Dur{\~a}es, R. \& Smith, T.B. (2010)
+  {Destination-based seed dispersal homogenizes genetic structure of a tropical
+  palm}. \emph{Molecular Ecology}, \textbf{19}(8), 1745--1753,
+  \doi{10.1111/j.1365-294X.2010.04600.x}.
+
 \bibitem[{Kinlan \emph{et~al.}(2005)Kinlan, Gaines \& Lester}]{Kinlan:2005fb}
 Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
   of marine community process}. \emph{Diversity and Distributions},
@@ -292,6 +299,13 @@ Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
 Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A., Tsoar, A. \& Nathan,
   R. (2009) Long-distance seed dispersal. \emph{Annual Plant Reviews},
   \textbf{38}, 204--237.
+
+\bibitem[{Scofield \emph{et~al.}(2012)Scofield, Smouse, Karubian \&
+  Sork}]{Scofield:2012gk}
+Scofield, D.G., Smouse, P.E., Karubian, J. \& Sork, V.L. (2012) {Use of Alpha,
+  Beta, and Gamma Diversity Measures to Characterize Seed Dispersal by
+  Animals}. \emph{The American Naturalist}, \textbf{180}(6), 719--732,
+  \doi{10.1086/668202}.
 
 \bibitem[{Seidler \& Plotkin(2006)}]{Seidler:2006hx}
 Seidler, T.G. \& Plotkin, J.B. (2006) {Seed dispersal and spatial pattern in
