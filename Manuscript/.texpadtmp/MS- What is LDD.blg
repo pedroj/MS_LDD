@@ -3,11 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
-Repeated entry---line 3094 of file ../MS_BES.bib
+Repeated entry---line 3135 of file ../MS_BES.bib
  : @article{Scofield:2012gk
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Bohonak:1999aa"
 Warning--I didn't find a database entry for "Westcott:200"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--can't use both author and editor fields in Clobert:2012vw
@@ -16,45 +15,45 @@ Warning--empty series in Jordano:2002tr
 Warning--empty series in Mallet:2001wx
 Warning--missing publisher in Mallet:2001wx
 Warning--empty series in Nathan:2002a
-You've used 73 entries,
+You've used 75 entries,
             3248 wiz_defined-function locations,
-            1224 strings with 22271 characters,
-and the built_in function-call counts, 50094 in all, are:
-= -- 4031
-> -- 2191
-< -- 38
-+ -- 837
-- -- 763
-* -- 4180
-:= -- 7455
-add.period$ -- 150
-call.type$ -- 73
-change.case$ -- 612
-chr.to.int$ -- 78
-cite$ -- 79
-duplicate$ -- 3814
-empty$ -- 3810
-format.name$ -- 986
-if$ -- 9856
+            1236 strings with 22645 characters,
+and the built_in function-call counts, 51272 in all, are:
+= -- 4132
+> -- 2227
+< -- 39
++ -- 851
+- -- 775
+* -- 4272
+:= -- 7630
+add.period$ -- 154
+call.type$ -- 75
+change.case$ -- 626
+chr.to.int$ -- 80
+cite$ -- 81
+duplicate$ -- 3910
+empty$ -- 3908
+format.name$ -- 1002
+if$ -- 10090
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 843
-newline$ -- 229
-num.names$ -- 300
-pop$ -- 1617
+missing$ -- 863
+newline$ -- 235
+num.names$ -- 308
+pop$ -- 1652
 preamble$ -- 1
-purify$ -- 542
+purify$ -- 554
 quote$ -- 0
-skip$ -- 1123
+skip$ -- 1153
 stack$ -- 0
-substring$ -- 2506
-swap$ -- 2129
+substring$ -- 2572
+swap$ -- 2180
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 642
+type$ -- 660
 warning$ -- 6
-while$ -- 352
+while$ -- 362
 width$ -- 0
-write$ -- 844
+write$ -- 867
 (There was 1 error message)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{73}
+\begin{thebibliography}{75}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -12,6 +12,10 @@
 Baguette, M. \& Schtickzelle, N. (2006) {Negative relationship between
   dispersal distance and demography in butterfly metapopulations}.
   \emph{Ecology}, \textbf{87}, 648--654.
+
+\bibitem[{Bohonak(1999)}]{Bohonak:1999aa}
+Bohonak, A. (1999) {Dispersal, gene flow, and population structure}.
+  \emph{Quarterly Review Of Biology}, \textbf{74}, 21--45.
 
 \bibitem[{Bueno \emph{et~al.}(2013)Bueno, Guevara, Ribeiro, Culot, Bufalo \&
   Galetti}]{Bueno:2013cg}
@@ -334,6 +338,12 @@ Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
 Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A., Tsoar, A. \& Nathan,
   R. (2009) Long-distance seed dispersal. \emph{Annual Plant Reviews},
   \textbf{38}, 204--237.
+
+\bibitem[{Schurr \emph{et~al.}(2008)Schurr, Steinitz \& Nathan}]{Schurr:2008bd}
+Schurr, F.M., Steinitz, O. \& Nathan, R. (2008) {Plant fecundity and seed
+  dispersal in spatially heterogeneous environments: models, mechanisms and
+  estimation}. \emph{Journal of Ecology}, \textbf{96}(4), 628--641,
+  \doi{10.1111/j.1365-2745.2008.01371.x}.
 
 \bibitem[{Scofield \emph{et~al.}(2012)Scofield, Smouse, Karubian \&
   Sork}]{Scofield:2012gk}

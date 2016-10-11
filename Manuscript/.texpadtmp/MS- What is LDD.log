@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  11 OCT 2016 12:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.8)  11 OCT 2016 16:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -489,11 +489,7 @@ Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [4]
-
-Package natbib Warning: Citation `Bohonak:1999aa' on page 5 undefined on input line 86.
-
-[5]
+ [4] [5]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no œ in font cmr12!
@@ -536,12 +532,12 @@ Missing character: There is no ­ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ­ in font cmr12!
  [24] (/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.bbl [25] [26] [27] [28]
-Underfull \hbox (badness 2922) in paragraph at lines 199--203
+Underfull \hbox (badness 2922) in paragraph at lines 203--207
 \OT1/cmr/m/n/12 tity com-po-nent and pat-terns of seed rain for Prunus ma-haleb. \OT1/cmr/m/it/12 Eco-
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 199--203
+Underfull \hbox (badness 3138) in paragraph at lines 203--207
 \OT1/cmr/m/it/12 log-i-cal Mono-graphs\OT1/cmr/m/n/12 , \OT1/cmr/bx/n/12 70\OT1/cmr/m/n/12 (4), 591--615, doi:$10 . 2307 / 2657187 ? ref = no-[]x-[]route :
  []
 
@@ -658,7 +654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-[39] [40] <Fig1.pdf, id=537, 597.23125pt x 845.1575pt>
+[39] [40] <Fig1.pdf, id=543, 597.23125pt x 845.1575pt>
 File: Fig1.pdf Graphic file (type pdf)
  <use Fig1.pdf>
 Package pdftex.def Info: Fig1.pdf used on input line 269.
@@ -667,7 +663,7 @@ Package pdftex.def Info: Fig1.pdf used on input line 269.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 272.
 
-<Fig2.pdf, id=538, 597.23125pt x 845.1575pt>
+<Fig2.pdf, id=544, 597.23125pt x 845.1575pt>
 File: Fig2.pdf Graphic file (type pdf)
  <use Fig2.pdf>
 Package pdftex.def Info: Fig2.pdf used on input line 278.
@@ -676,7 +672,7 @@ Package pdftex.def Info: Fig2.pdf used on input line 278.
 
 LaTeX Warning: Float too large for page by 119.7887pt on input line 281.
 
-<Fig3.pdf, id=539, 597.23125pt x 845.1575pt>
+<Fig3.pdf, id=545, 597.23125pt x 845.1575pt>
 File: Fig3.pdf Graphic file (type pdf)
  <use Fig3.pdf>
 Package pdftex.def Info: Fig3.pdf used on input line 287.
@@ -685,7 +681,7 @@ Package pdftex.def Info: Fig3.pdf used on input line 287.
 
 LaTeX Warning: Float too large for page by 148.24146pt on input line 290.
 
-<Fig4.pdf, id=540, 597.23125pt x 845.1575pt>
+<Fig4.pdf, id=546, 597.23125pt x 845.1575pt>
 File: Fig4.pdf Graphic file (type pdf)
  <use Fig4.pdf>
 Package pdftex.def Info: Fig4.pdf used on input line 297.
@@ -708,18 +704,18 @@ Package rerunfilecheck Info: File `"MS- What is LDD".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
  ) 
 Here is how much of TeX's memory you used:
- 8524 strings out of 493089
- 126963 string characters out of 6134843
- 224046 words of memory out of 5000000
- 11752 multiletter control sequences out of 15000+600000
+ 8527 strings out of 493089
+ 127018 string characters out of 6134843
+ 224134 words of memory out of 5000000
+ 11753 multiletter control sequences out of 15000+600000
  15421 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,12n,43p,2652b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (45 pages, 7463625 bytes).
+Output written on "/Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.pdf" (45 pages, 7464551 bytes).
 PDF statistics:
- 1150 PDF objects out of 1200 (max. 8388607)
- 644 compressed objects within 7 object streams
- 137 named destinations out of 1000 (max. 500000)
+ 1157 PDF objects out of 1200 (max. 8388607)
+ 651 compressed objects within 7 object streams
+ 139 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
