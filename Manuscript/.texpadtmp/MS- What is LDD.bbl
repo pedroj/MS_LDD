@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{73}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -53,6 +53,12 @@ Clark, J.S., Fastie, C., Hurtt, G.C., Jackson, S.T., Johnson, C., King, G.,
 Clark, J. (1998) {Why trees migrate so fast: Confronting theory with dispersal
   biology and the paleorecord}. \emph{The American Naturalist}, \textbf{152},
   204--224.
+
+\bibitem[{Clark \emph{et~al.}(1999)Clark, Silman, Kern, Macklin \&
+  Hilleris-Lambers}]{Clark:1999sv}
+Clark, J., Silman, M., Kern, R., Macklin, E. \& Hilleris-Lambers, J. (1999)
+  {Seed dispersal near and far: Patterns across temperate and tropical
+  forests}. \emph{Ecology}, \textbf{80}, 1475--1494.
 
 \bibitem[{Clobert \emph{et~al.}(2012)Clobert, Baguette, Benton, Bullock \&
   Ducatez}]{Clobert:2012vw}
@@ -110,6 +116,13 @@ Garcia, C., Jordano, P. \& Godoy, J.A. (2007) {Contemporary pollen and seed
 Garc{\'\i}a, C. \& Borda-de {\'A}gua, L. (2017) Extended dispersal kernels:
   insights from statistics of extremes. \emph{Journal of Ecology}, \textbf{00},
   000--000.
+
+\bibitem[{Garc{\'\i}a \emph{et~al.}(2016)Garc{\'\i}a, Carlo \&
+  Mart{\'\i}nez}]{Garcia:2016bd}
+Garc{\'\i}a, D., Carlo, T.A. \& Mart{\'\i}nez, D. (2016) {Differential effect
+  of landscape structure on the large-scale dispersal of co-occurring
+  bird-dispersed trees}. \emph{Basic And Applied Ecology}, \textbf{17}(5),
+  428--437, \doi{10.1016/j.baae.2016.01.003}.
 
 \bibitem[{Godoy \& Jordano(2001)}]{Godoy:2001}
 Godoy, J.A. \& Jordano, P. (2001) {Seed dispersal by animals: exact
@@ -214,6 +227,12 @@ Levin, D.A. (1988) {The paternity pools of plants}. \emph{The American
 Mallet, J. (2001) {Gene flow}. \emph{Insect movement mechanisms and
   consequences} (eds. I.P. Wolwood, D.R. Reynolds \& C.~Thomas). Wallingford,
   UK, pp. 337--360.
+
+\bibitem[{Martinez \& Gonz{\'a}lez-Taboada(2008)}]{Martinez:2008jx}
+Martinez, I. \& Gonz{\'a}lez-Taboada, F. (2008) {Seed dispersal patterns in a
+  temperate forest during a mast event: performance of alternative dispersal
+  kernels}. \emph{Oecologia}, \textbf{159}(2), 389--400,
+  \doi{10.1007/s00442-008-1218-4}.
 
 \bibitem[{Morales \emph{et~al.}(2013)Morales, Garc{\'\i}a, Mart{\'\i}nez,
   Rodr{\'\i}guez-P{\'e}rez \& Herrera}]{Morales:2013dg}
