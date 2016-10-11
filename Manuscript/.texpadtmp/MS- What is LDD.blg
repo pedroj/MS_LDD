@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
-Repeated entry---line 3089 of file ../MS_BES.bib
+Repeated entry---line 3127 of file ../MS_BES.bib
  : @article{Scofield:2012gk
  :                         ,
 I'm skipping whatever remains of this entry
@@ -12,46 +12,48 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--can't use both author and editor fields in Clobert:2012vw
 Warning--empty series in Jordano:2007a
 Warning--empty series in Jordano:2002tr
+Warning--empty series in Mallet:2001wx
+Warning--missing publisher in Mallet:2001wx
 Warning--empty series in Nathan:2002a
-You've used 67 entries,
+You've used 69 entries,
             3248 wiz_defined-function locations,
-            1174 strings with 20760 characters,
-and the built_in function-call counts, 46004 in all, are:
-= -- 3687
-> -- 2049
-< -- 34
-+ -- 783
-- -- 715
-* -- 3847
-:= -- 6865
-add.period$ -- 137
-call.type$ -- 67
-change.case$ -- 567
-chr.to.int$ -- 72
-cite$ -- 71
-duplicate$ -- 3490
-empty$ -- 3479
-format.name$ -- 921
-if$ -- 9036
+            1190 strings with 21171 characters,
+and the built_in function-call counts, 47348 in all, are:
+= -- 3803
+> -- 2079
+< -- 37
++ -- 794
+- -- 724
+* -- 3940
+:= -- 7053
+add.period$ -- 142
+call.type$ -- 69
+change.case$ -- 579
+chr.to.int$ -- 74
+cite$ -- 75
+duplicate$ -- 3604
+empty$ -- 3599
+format.name$ -- 933
+if$ -- 9318
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 776
-newline$ -- 211
-num.names$ -- 274
-pop$ -- 1496
+missing$ -- 798
+newline$ -- 217
+num.names$ -- 284
+pop$ -- 1536
 preamble$ -- 1
-purify$ -- 503
+purify$ -- 513
 quote$ -- 0
-skip$ -- 1021
+skip$ -- 1066
 stack$ -- 0
-substring$ -- 2271
-swap$ -- 1940
-text.length$ -- 3
+substring$ -- 2356
+swap$ -- 2006
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 588
-warning$ -- 4
-while$ -- 320
+type$ -- 606
+warning$ -- 6
+while$ -- 332
 width$ -- 0
-write$ -- 773
+write$ -- 797
 (There was 1 error message)

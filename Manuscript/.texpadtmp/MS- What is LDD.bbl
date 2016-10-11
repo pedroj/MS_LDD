@@ -1,4 +1,4 @@
-\begin{thebibliography}{67}
+\begin{thebibliography}{69}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -205,6 +205,11 @@ Kramer, A., Ison, J., Ashley, M. \& Howe, H. (2008) {The paradox of forest
 Levin, D.A. (1988) {The paternity pools of plants}. \emph{The American
   Naturalist}, \textbf{132}, 309--317, \doi{10.2307/2461984}.
 
+\bibitem[{Mallet(2001)}]{Mallet:2001wx}
+Mallet, J. (2001) {Gene flow}. \emph{Insect movement mechanisms and
+  consequences} (eds. I.P. Wolwood, D.R. Reynolds \& C.~Thomas). Wallingford,
+  UK, pp. 337--360.
+
 \bibitem[{Morales \emph{et~al.}(2013)Morales, Garc{\'\i}a, Mart{\'\i}nez,
   Rodr{\'\i}guez-P{\'e}rez \& Herrera}]{Morales:2013dg}
 Morales, J.M., Garc{\'\i}a, D., Mart{\'\i}nez, D., Rodr{\'\i}guez-P{\'e}rez, J.
@@ -282,6 +287,12 @@ Ronce, O. (2007) {How does it feel to be like a rolling stone? Ten questions
   about dispersal evolution}. \emph{Annual Review of Ecology Evolution and
   Systematics}, \textbf{38}(1), 231--253,
   \doi{10.1146/annurev.ecolsys.38.091206.095611}.
+
+\bibitem[{Rousset(1997)}]{Rousset:1997bd}
+Rousset, F. (1997) {Genetic differentiation and estimation of gene flow from
+  F-statistics under isolation by distance.} \emph{Genetics}, \textbf{145}(4),
+  1219--1228,
+  \doi{10.2307/40419201?ref=no-x-route:35b111e059d3f1727b77c9c51a9f7d0e}.
 
 \bibitem[{Schloss \emph{et~al.}(2012)Schloss, Nunez \& Lawler}]{Schloss:2012gt}
 Schloss, C.A., Nunez, T.A. \& Lawler, J.J. (2012) {Dispersal will limit ability
