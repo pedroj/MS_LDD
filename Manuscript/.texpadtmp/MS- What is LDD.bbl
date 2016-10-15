@@ -1,4 +1,4 @@
-\begin{thebibliography}{75}
+\begin{thebibliography}{76}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -198,6 +198,10 @@ Jordano, P. \& Godoy, J. (2002) {Frugivore-generated seed shadows: a landscape
   view of demographic and genetic effects}. \emph{Seed dispersal and frugivory:
   ecology, evolution, and conservation} (eds. D.~Levey, W.~Silva \&
   M.~Galetti). Book chapter, Wallingford, UK, pp. 305--321.
+
+\bibitem[{Jordano(2016)}]{Jordano:2016ab}
+Jordano, P. (2016) Data from: What is long-distance dispersal? and a taxonomy
+  of dispersal events. \emph{Journal of Ecology}, \doi{10.5061/dryad.k0v67}.
 
 \bibitem[{Jordano \& Schupp(2000)}]{Jordano:2000ft}
 Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity

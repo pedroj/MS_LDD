@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD.aux
 The style file: ../bes.bst
 Database file #1: ../MS_BES.bib
-Repeated entry---line 3135 of file ../MS_BES.bib
+Repeated entry---line 3143 of file ../MS_BES.bib
  : @article{Scofield:2012gk
  :                         ,
 I'm skipping whatever remains of this entry
@@ -15,45 +15,45 @@ Warning--empty series in Jordano:2002tr
 Warning--empty series in Mallet:2001wx
 Warning--missing publisher in Mallet:2001wx
 Warning--empty series in Nathan:2002a
-You've used 75 entries,
+You've used 76 entries,
             3248 wiz_defined-function locations,
-            1236 strings with 22645 characters,
-and the built_in function-call counts, 51272 in all, are:
-= -- 4132
-> -- 2227
-< -- 39
-+ -- 851
-- -- 775
-* -- 4272
-:= -- 7630
-add.period$ -- 154
-call.type$ -- 75
-change.case$ -- 626
-chr.to.int$ -- 80
-cite$ -- 81
-duplicate$ -- 3910
-empty$ -- 3908
-format.name$ -- 1002
-if$ -- 10090
+            1241 strings with 22784 characters,
+and the built_in function-call counts, 51694 in all, are:
+= -- 4168
+> -- 2237
+< -- 40
++ -- 855
+- -- 778
+* -- 4296
+:= -- 7700
+add.period$ -- 156
+call.type$ -- 76
+change.case$ -- 632
+chr.to.int$ -- 81
+cite$ -- 82
+duplicate$ -- 3949
+empty$ -- 3945
+format.name$ -- 1006
+if$ -- 10175
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 863
-newline$ -- 235
-num.names$ -- 308
-pop$ -- 1652
+missing$ -- 870
+newline$ -- 238
+num.names$ -- 312
+pop$ -- 1668
 preamble$ -- 1
-purify$ -- 554
+purify$ -- 559
 quote$ -- 0
-skip$ -- 1153
+skip$ -- 1168
 stack$ -- 0
-substring$ -- 2572
-swap$ -- 2180
+substring$ -- 2583
+swap$ -- 2194
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 660
+type$ -- 669
 warning$ -- 6
-while$ -- 362
+while$ -- 365
 width$ -- 0
-write$ -- 867
+write$ -- 878
 (There was 1 error message)
