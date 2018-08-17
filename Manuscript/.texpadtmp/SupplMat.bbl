@@ -1,0 +1,78 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Dutech \emph{et~al.}(2005)Dutech, Sork, Irwin, Smouse \&
+  Davis}]{Dutech:2005fk}
+Dutech, C., Sork, V.L., Irwin, A.J., Smouse, P.E. \& Davis, F.W. (2005) {Gene
+  flow and fine-scale genetic structure in a wind-pollinated tree species
+  Quercus lobata (Fagaceaee)}. \emph{American Journal of Botany}, \textbf{92},
+  252--261.
+
+\bibitem[{Garcia \emph{et~al.}(2005)Garcia, Arroyo, Godoy \&
+  Jordano}]{Garcia:2005fu}
+Garcia, C., Arroyo, J., Godoy, J. \& Jordano, P. (2005) {Mating patterns,
+  pollen dispersal, and the ecological maternal neighbourhood in a Prunus
+  mahaleb L. population}. \emph{Molecular Ecology}, \textbf{14}, 1821--1830,
+  \doi{10.1111/j.1365-294X.2005.02542.x}.
+
+\bibitem[{Garcia \emph{et~al.}(2007)Garcia, Jordano \& Godoy}]{Garcia:2007he}
+Garcia, C., Jordano, P. \& Godoy, J.A. (2007) {Contemporary pollen and seed
+  dispersal in a Prunus mahaleb population: patterns in distance and
+  direction}. \emph{Molecular Ecology}, \textbf{16}, 1947--1955,
+  \doi{10.1111/j.1365-294X.2006.03126.x}.
+
+\bibitem[{Garcia \emph{et~al.}(2009)Garcia, Jordano, Arroyo \&
+  Godoy}]{Garcia:2009do}
+Garcia, C., Jordano, P., Arroyo, J.M. \& Godoy, J.A. (2009) {Maternal genetic
+  correlations in the seed rain: effects of frugivore activity in heterogeneous
+  landscapes}. \emph{Journal of Ecology}, \textbf{97}(6), 1424--1435,
+  \doi{10.1111/j.1365-2745.2009.01577.x}.
+
+\bibitem[{Godoy \& Jordano(2001)}]{Godoy:2001}
+Godoy, J.A. \& Jordano, P. (2001) {Seed dispersal by animals: exact
+  identification of source trees with endocarp DNA microsatellites}.
+  \emph{Molecular Ecology}, \textbf{10}(9), 2275--2283.
+
+\bibitem[{Jordano \emph{et~al.}(2007)Jordano, Garc{\'\i}a, Godoy \&
+  Garc{\'\i}a-Casta{\~n}o}]{Jordano:2007}
+Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
+  (2007) {Differential contribution of frugivores to complex seed dispersal
+  patterns.} \emph{Proceedings Of The National Academy Of Sciences Of The
+  United States Of America}, \textbf{104}(9), 3278--3282,
+  \doi{10.1073/pnas.0606793104}.
+
+\bibitem[{Jordano \& Schupp(2000)}]{Jordano:2000ft}
+Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity
+  component and patterns of seed rain for Prunus mahaleb}. \emph{Ecological
+  Monographs}, \textbf{70}(4), 591--615,
+  \doi{10.2307/2657187?ref=no-x-route:1d70d282eb4ed20cce6eac7274a631bb}.
+
+\bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{Nason:1998aa}
+Nason, J.D., Herre, E. \& Hamrick, J.L. (1998) {The breeding structure of a
+  tropical keystone plant resource}. \emph{Nature}, \textbf{391}, 685--687.
+
+\bibitem[{Ottewell \emph{et~al.}(2012)Ottewell, Grey, Castillo \&
+  Karubian}]{Ottewell:2012hu}
+Ottewell, K., Grey, E., Castillo, F. \& Karubian, J. (2012) {The pollen
+  dispersal kernel and mating system of an insect-pollinated tropical palm,
+  Oenocarpus bataua}. \textbf{109}(6), 332--339, \doi{10.1038/hdy.2012.40}.
+
+\bibitem[{Smouse \emph{et~al.}(2001)Smouse, Dyer, Westfall \&
+  Sork}]{Smouse:2001aa}
+Smouse, P.E., Dyer, R.J., Westfall, R.D. \& Sork, V.L. (2001) {Two-generation
+  analysis of pollen flow across a landscape. I. Male gamete heterogeneity
+  among females}. \emph{Evolution}, \textbf{55}(2), 260--271.
+
+\bibitem[{Vali{\`e}re(2002)}]{Valiere:2002fo}
+Vali{\`e}re, N. (2002) {GIMLET: a computer program for analysing genetic
+  individual identification data}. \emph{Molecular Ecology Notes}, \textbf{2},
+  377--379, \doi{10.1046/j.1471-8286.2002.00228.x}.
+
+\end{thebibliography}

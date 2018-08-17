@@ -1,0 +1,454 @@
+\begin{thebibliography}{76}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Baguette \& Schtickzelle(2006)}]{Baguette:2006aa}
+Baguette, M. \& Schtickzelle, N. (2006) {Negative relationship between
+  dispersal distance and demography in butterfly metapopulations}.
+  \emph{Ecology}, \textbf{87}, 648--654.
+
+\bibitem[{Bohonak(1999)}]{Bohonak:1999aa}
+Bohonak, A. (1999) {Dispersal, gene flow, and population structure}.
+  \emph{Quarterly Review Of Biology}, \textbf{74}, 21--45.
+
+\bibitem[{Bueno \emph{et~al.}(2013)Bueno, Guevara, Ribeiro, Culot, Bufalo \&
+  Galetti}]{Bueno:2013cg}
+Bueno, R.S., Guevara, R., Ribeiro, M.C., Culot, L., Bufalo, F.S. \& Galetti, M.
+  (2013) {Functional Redundancy and Complementarities of Seed Dispersal by the
+  Last Neotropical Megafrugivores}. \emph{PLoS ONE}, \textbf{8}(2), e56252,
+  \doi{10.1371/journal.pone.0056252.s003}.
+
+\bibitem[{Byrne \emph{et~al.}(2014)Byrne, Quinn, O'Keeffe, Green,
+  Paddy~Sleeman, Wayne~Martin \& Davenport}]{Byrne:2014gu}
+Byrne, A.W., Quinn, J.L., O'Keeffe, J.J., Green, S., Paddy~Sleeman, D.,
+  Wayne~Martin, S. \& Davenport, J. (2014) {Large-scale movements in European
+  badgers: has the tail of the movement kernel been underestimated?}
+  \emph{Journal of Animal Ecology}, \textbf{83}(4), 991--1001,
+  \doi{10.1111/1365-2656.12197}.
+
+\bibitem[{Carlo \emph{et~al.}(2013)Carlo, Garc{\'\i}a, Mart{\'\i}nez, Gleditsch
+  \& Morales}]{Carlo:2013vd}
+Carlo, T.A., Garc{\'\i}a, D., Mart{\'\i}nez, D., Gleditsch, J.M. \& Morales,
+  J.M. (2013) {Where do seeds go when they go far? Distance and directionality
+  of avian seed dispersal in heterogeneous landscapes.} \emph{Ecology},
+  \textbf{94}(2), 301--307.
+
+\bibitem[{Carlo \emph{et~al.}(2009)Carlo, Tewksbury, Mart{\'\i}nez \&
+  Mart}]{Carlo:2009wa}
+Carlo, T., Tewksbury, J., Mart{\'\i}nez, C. \& Mart (2009) {A new method to
+  track seed dispersal and recruitment using 15N isotope enrichment}.
+  \emph{Ecology}, \textbf{90}, 3516{\textendash}3525.
+
+\bibitem[{Clark \emph{et~al.}(1998)Clark, Fastie, Hurtt, Jackson, Johnson,
+  King, Lewis, Lynch, Pacala, Prentice, Schupp, Webb~III \&
+  Wyckoff}]{Clark:1998aa}
+Clark, J.S., Fastie, C., Hurtt, G.C., Jackson, S.T., Johnson, C., King, G.,
+  Lewis, M., Lynch, J., Pacala, S., Prentice, C., Schupp, E., Webb~III, T. \&
+  Wyckoff, P. (1998) {Reid's paradox of rapid plant migration}.
+  \emph{BioScience}, \textbf{48}, 13--24.
+
+\bibitem[{Clark(1998)}]{Clark:1998vi}
+Clark, J. (1998) {Why trees migrate so fast: Confronting theory with dispersal
+  biology and the paleorecord}. \emph{The American Naturalist}, \textbf{152},
+  204--224.
+
+\bibitem[{Clark \emph{et~al.}(1999)Clark, Silman, Kern, Macklin \&
+  Hilleris-Lambers}]{Clark:1999sv}
+Clark, J., Silman, M., Kern, R., Macklin, E. \& Hilleris-Lambers, J. (1999)
+  {Seed dispersal near and far: Patterns across temperate and tropical
+  forests}. \emph{Ecology}, \textbf{80}, 1475--1494.
+
+\bibitem[{Clobert \emph{et~al.}(2012)Clobert, Baguette, Benton, Bullock \&
+  Ducatez}]{Clobert:2012vw}
+Clobert, J., Baguette, M., Benton, M.J., Bullock, J.M. \& Ducatez, S. (2012)
+  \emph{{Dispersal ecology and evolution}}. Oxford University Press, Oxford,
+  UK.
+
+\bibitem[{Cousens \emph{et~al.}(2008)Cousens, Dytham \& Law}]{Cousens:2008aa}
+Cousens, R.D., Dytham, C. \& Law, R. (2008) \emph{{Dispersal in plants. A
+  population perspective}}. Oxford University Press, Oxford, UK.
+
+\bibitem[{D'Aloia \emph{et~al.}(2013)D'Aloia, Bogdanowicz, Majoris, Harrison \&
+  Buston}]{DAloia:2013fc}
+D'Aloia, C.C., Bogdanowicz, S.M., Majoris, J.E., Harrison, R.G. \& Buston, P.M.
+  (2013) {Self-recruitment in a Caribbean reef fish: a method for approximating
+  dispersal kernels accounting for seascape}. \emph{Molecular Ecology},
+  n/a--n/a, \doi{10.1111/mec.12274}.
+
+\bibitem[{Dutech \emph{et~al.}(2005)Dutech, Sork, Irwin, Smouse \&
+  Davis}]{Dutech:2005fk}
+Dutech, C., Sork, V.L., Irwin, A.J., Smouse, P.E. \& Davis, F.W. (2005) {Gene
+  flow and fine-scale genetic structure in a wind-pollinated tree species
+  Quercus lobata (Fagaceaee)}. \emph{American Journal of Botany}, \textbf{92},
+  252--261.
+
+\bibitem[{Galetti \emph{et~al.}(2013)Galetti, Guevara, C{\^o}rtes, Fadini,
+  Von~Matter, Leite, Labecca, Ribeiro, Carvalho, Collevatti, Pires, Guimaraes,
+  Brancalion, Ribeiro \& Jordano}]{Galetti:2013jv}
+Galetti, M., Guevara, R., C{\^o}rtes, M.C., Fadini, R., Von~Matter, S., Leite,
+  A.B., Labecca, F., Ribeiro, T., Carvalho, C.S., Collevatti, R.G., Pires,
+  M.M., Guimaraes, P.R., Brancalion, P.H., Ribeiro, M.C. \& Jordano, P. (2013)
+  {Functional extinction of birds drives rapid evolutionary changes in seed
+  size.} \emph{Science}, \textbf{340}(6136), 1086--1090,
+  \doi{10.1126/science.1233774}.
+
+\bibitem[{Garant \emph{et~al.}(2007)Garant, Forde \& Hendry}]{Garant:2007cka}
+Garant, D., Forde, S.E. \& Hendry, A.P. (2007) {The multifarious effects of
+  dispersal and gene flow on contemporary adaptation}. \emph{Functional
+  Ecology}, \textbf{21}(3), 434--443, \doi{10.1111/j.1365-2435.2006.01228.x}.
+
+\bibitem[{Garcia \emph{et~al.}(2005)Garcia, Arroyo, Godoy \&
+  Jordano}]{Garcia:2005fu}
+Garcia, C., Arroyo, J., Godoy, J. \& Jordano, P. (2005) {Mating patterns,
+  pollen dispersal, and the ecological maternal neighbourhood in a Prunus
+  mahaleb L. population}. \emph{Molecular Ecology}, \textbf{14}, 1821--1830,
+  \doi{10.1111/j.1365-294X.2005.02542.x}.
+
+\bibitem[{Garcia \emph{et~al.}(2007)Garcia, Jordano \& Godoy}]{Garcia:2007he}
+Garcia, C., Jordano, P. \& Godoy, J.A. (2007) {Contemporary pollen and seed
+  dispersal in a Prunus mahaleb population: patterns in distance and
+  direction}. \emph{Molecular Ecology}, \textbf{16}, 1947--1955,
+  \doi{10.1111/j.1365-294X.2006.03126.x}.
+
+\bibitem[{Garc{\'\i}a \& Borda-de {\'A}gua(2017)}]{Garcia:2017aa}
+Garc{\'\i}a, C. \& Borda-de {\'A}gua, L. (2017) Extended dispersal kernels:
+  insights from statistics of extremes. \emph{Journal of Ecology}, \textbf{00},
+  000--000.
+
+\bibitem[{Garc{\'\i}a \emph{et~al.}(2016)Garc{\'\i}a, Carlo \&
+  Mart{\'\i}nez}]{Garcia:2016bd}
+Garc{\'\i}a, D., Carlo, T.A. \& Mart{\'\i}nez, D. (2016) {Differential effect
+  of landscape structure on the large-scale dispersal of co-occurring
+  bird-dispersed trees}. \emph{Basic And Applied Ecology}, \textbf{17}(5),
+  428--437, \doi{10.1016/j.baae.2016.01.003}.
+
+\bibitem[{Godoy \& Jordano(2001)}]{Godoy:2001}
+Godoy, J.A. \& Jordano, P. (2001) {Seed dispersal by animals: exact
+  identification of source trees with endocarp DNA microsatellites}.
+  \emph{Molecular Ecology}, \textbf{10}(9), 2275--2283.
+
+\bibitem[{Gonz{\'a}lez-Varo \emph{et~al.}(2014)Gonz{\'a}lez-Varo, Arroyo \&
+  Jordano}]{GonzalezVaro:2014ij}
+Gonz{\'a}lez-Varo, J.P., Arroyo, J.M. \& Jordano, P. (2014) {Who dispersed the
+  seeds? The use of DNA barcoding in frugivory and seed dispersal studies}.
+  \emph{Methods in Ecology and Evolution}, \textbf{5}(8), 806--814,
+  \doi{10.1111/2041-210X.12212}.
+
+\bibitem[{Guttal \emph{et~al.}(2011)Guttal, Bartumeus, Hartvigsen \&
+  Nevai}]{Guttal:2011hs}
+Guttal, V., Bartumeus, F., Hartvigsen, G. \& Nevai, A.L. (2011) {Retention Time
+  Variability as a Mechanism for Animal Mediated Long-Distance Dispersal}.
+  \emph{PLoS ONE}, \textbf{6}(12), e28447,
+  \doi{10.1371/journal.pone.0028447.t003}.
+
+\bibitem[{Hampe \& Jump(2011)}]{Hampe:2011bv}
+Hampe, A. \& Jump, A.S. (2011) {Climate Relicts: Past, Present, Future}.
+  \emph{Annual Review of Ecology Evolution and Systematics}, \textbf{42}(1),
+  313--333, \doi{10.1146/annurev-ecolsys-102710-145015}.
+
+\bibitem[{Hardesty \emph{et~al.}(2006)Hardesty, Hubbell \&
+  Bermingham}]{Hardesty:2006lr}
+Hardesty, B.D., Hubbell, S.P. \& Bermingham, E. (2006) {Genetic evidence of
+  frequent long-distance recruitment in a vertebrate-dispersed tree}.
+  \emph{Ecology Letters}, \textbf{9}, 516--525.
+
+\bibitem[{Hardesty \emph{et~al.}(2011)Hardesty, Metcalfe \&
+  Westcott}]{Hardesty:2011jn}
+Hardesty, B.D., Metcalfe, S.S. \& Westcott, D.A. (2011) {Persistence and spread
+  in a new landscape: Dispersal ecology and genetics of Miconia invasions in
+  Australia}. \emph{Acta Oecologica}, \textbf{37}(6), 657--665,
+  \doi{10.1016/j.actao.2011.06.006}.
+
+\bibitem[{Harper(1977)}]{Harper:1977aa}
+Harper, J. (1977) \emph{Population Biology of Plants}, 1st edn. Academic Press,
+  London.
+
+\bibitem[{Howe \& Miriti(2004)}]{Howe:2004}
+Howe, H.F. \& Miriti, M.N. (2004) {When seed dispersal matters}.
+  \emph{BioScience}, \textbf{54}(7), 651--660.
+
+\bibitem[{Jones \& Muller-Landau(2008)}]{Jones:2008il}
+Jones, F.A. \& Muller-Landau, H.C. (2008) {Measuring long-distance seed
+  dispersal in complex natural environments: an evaluation and integration of
+  classical and genetic methods}. \emph{Journal of Ecology}, \textbf{96}(4),
+  642--652, \doi{10.1111/j.1365-2745.2008.01400.x}.
+
+\bibitem[{Jordano(2007)}]{Jordano:2007a}
+Jordano, P. (2007) {Frugivores, seeds, and genes: analysing the key components
+  of seed shadows}. \emph{Seed Dispersal: Theory and its Application in a
+  Changing World} (eds. A.J. Dennis, R.~Green, E.W. Schupp \& A.J. Wescott).
+  CAB International, Wallingford, UK, pp. 229--251.
+
+\bibitem[{Jordano \emph{et~al.}(2007)Jordano, Garc{\'\i}a, Godoy \&
+  Garc{\'\i}a-Casta{\~n}o}]{Jordano:2007}
+Jordano, P., Garc{\'\i}a, C., Godoy, J.A. \& Garc{\'\i}a-Casta{\~n}o, J.L.
+  (2007) {Differential contribution of frugivores to complex seed dispersal
+  patterns.} \emph{Proceedings Of The National Academy Of Sciences Of The
+  United States Of America}, \textbf{104}(9), 3278--3282,
+  \doi{10.1073/pnas.0606793104}.
+
+\bibitem[{Jordano \& Godoy(2002)}]{Jordano:2002tr}
+Jordano, P. \& Godoy, J. (2002) {Frugivore-generated seed shadows: a landscape
+  view of demographic and genetic effects}. \emph{Seed dispersal and frugivory:
+  ecology, evolution, and conservation} (eds. D.~Levey, W.~Silva \&
+  M.~Galetti). Book chapter, Wallingford, UK, pp. 305--321.
+
+\bibitem[{Jordano(2016)}]{Jordano:2016ab}
+Jordano, P. (2016) Data from: What is long-distance dispersal? and a taxonomy
+  of dispersal events. \emph{Journal of Ecology}, \doi{10.5061/dryad.k0v67}.
+
+\bibitem[{Jordano \& Schupp(2000)}]{Jordano:2000ft}
+Jordano, P. \& Schupp, E.W. (2000) {Seed disperser effectiveness: the quantity
+  component and patterns of seed rain for Prunus mahaleb}. \emph{Ecological
+  Monographs}, \textbf{70}(4), 591--615,
+  \doi{10.2307/2657187?ref=no-x-route:1d70d282eb4ed20cce6eac7274a631bb}.
+
+\bibitem[{Karubian \emph{et~al.}(2010)Karubian, Sork, Roorda, Dur{\~a}es \&
+  Smith}]{Karubian:2010br}
+Karubian, J., Sork, V.L., Roorda, T., Dur{\~a}es, R. \& Smith, T.B. (2010)
+  {Destination-based seed dispersal homogenizes genetic structure of a tropical
+  palm}. \emph{Molecular Ecology}, \textbf{19}(8), 1745--1753,
+  \doi{10.1111/j.1365-294X.2010.04600.x}.
+
+\bibitem[{Kinlan \emph{et~al.}(2005)Kinlan, Gaines \& Lester}]{Kinlan:2005fb}
+Kinlan, B., Gaines, S. \& Lester, S. (2005) {Propagule dispersal and the scales
+  of marine community process}. \emph{Diversity and Distributions},
+  \textbf{11}, 139--148, \doi{10.1111/j.1366-9516.2005.00158.x}.
+
+\bibitem[{Kramer \emph{et~al.}(2008)Kramer, Ison, Ashley \&
+  Howe}]{Kramer:2008kg}
+Kramer, A., Ison, J., Ashley, M. \& Howe, H. (2008) {The paradox of forest
+  fragmentation genetics}. \emph{Conservation Biology}, 8,
+  \doi{10.1111/j.1523-1739.2008.00944.x}.
+
+\bibitem[{Levin(1988)}]{Levin:1988fm}
+Levin, D.A. (1988) {The paternity pools of plants}. \emph{The American
+  Naturalist}, \textbf{132}, 309--317, \doi{10.2307/2461984}.
+
+\bibitem[{Mallet(2001)}]{Mallet:2001wx}
+Mallet, J. (2001) {Gene flow}. \emph{Insect movement mechanisms and
+  consequences} (eds. I.P. Wolwood, D.R. Reynolds \& C.~Thomas). Wallingford,
+  UK, pp. 337--360.
+
+\bibitem[{Martinez \& Gonz{\'a}lez-Taboada(2008)}]{Martinez:2008jx}
+Martinez, I. \& Gonz{\'a}lez-Taboada, F. (2008) {Seed dispersal patterns in a
+  temperate forest during a mast event: performance of alternative dispersal
+  kernels}. \emph{Oecologia}, \textbf{159}(2), 389--400,
+  \doi{10.1007/s00442-008-1218-4}.
+
+\bibitem[{Morales \emph{et~al.}(2013)Morales, Garc{\'\i}a, Mart{\'\i}nez,
+  Rodr{\'\i}guez-P{\'e}rez \& Herrera}]{Morales:2013dg}
+Morales, J.M., Garc{\'\i}a, D., Mart{\'\i}nez, D., Rodr{\'\i}guez-P{\'e}rez, J.
+  \& Herrera, J.M. (2013) {Frugivore Behavioural Details Matter for Seed
+  Dispersal: A Multi-Species Model for Cantabrian Thrushes and Trees}.
+  \emph{PLoS ONE}, \textbf{8}(6), e65216,
+  \doi{10.1371/journal.pone.0065216.s005}.
+
+\bibitem[{Nason \emph{et~al.}(1998)Nason, Herre \& Hamrick}]{Nason:1998aa}
+Nason, J.D., Herre, E. \& Hamrick, J.L. (1998) {The breeding structure of a
+  tropical keystone plant resource}. \emph{Nature}, \textbf{391}, 685--687.
+
+\bibitem[{Nathan \emph{et~al.}(2002)Nathan, Horn, Chave \&
+  Levin}]{Nathan:2002a}
+Nathan, R., Horn, H.S., Chave, J. \& Levin, S.A. (2002) {Mechanistic models for
+  tree seed dispersal by wind in dense forests and open landscapes}. \emph{Seed
+  dispersal and frugivory: ecology, evolution and conservation} (eds. D.J.
+  Levey, W.R. Silva \& M.~Galetti). Commonwealth Agricultural Bureau
+  International, Wallingford, UK, pp. 69--82.
+
+\bibitem[{Nathan \emph{et~al.}(2003)Nathan, Perry, Cronin, Strand \&
+  Cain}]{Nathan:2003qe}
+Nathan, R., Perry, G., Cronin, J.T., Strand, A.E. \& Cain, M.L. (2003) {Methods
+  for estimating long-distance dispersal}. \emph{Oikos}, \textbf{103},
+  261--273.
+
+\bibitem[{Nathan(2005)}]{Nathan:2005jc}
+Nathan, R. (2005) {Long-distance dispersal research: building a network of
+  yellow brick roads}. \emph{Diversity and Distributions}, \textbf{11}(2),
+  125--130, \doi{10.1111/j.1366-9516.2005.00159.x}.
+
+\bibitem[{Nathan(2006)}]{Nathan:2006aa}
+Nathan, R. (2006) {Long-distance dispersal of plants}. \emph{Science},
+  \textbf{313}, 786--788.
+
+\bibitem[{Nathan \emph{et~al.}(2008{\natexlab{a}})Nathan, Getz, Revilla,
+  Holyoak, Kadmon, Saltz \& Smouse}]{Nathan:2008fx}
+Nathan, R., Getz, W.M., Revilla, E., Holyoak, M., Kadmon, R., Saltz, D. \&
+  Smouse, P.E. (2008{\natexlab{a}}) {A movement ecology paradigm for unifying
+  organismal movement research}. \emph{Proceedings of the National Academy of
+  Sciences USA}, \textbf{105}(49), 19052--19059, \doi{10.1073/pnas.0800375105}.
+
+\bibitem[{Nathan \emph{et~al.}(2008{\natexlab{b}})Nathan, Schurr, Spiegel,
+  Steinitz, Trakhtenbrot \& Tsoar}]{Nathan:2008is}
+Nathan, R., Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A. \& Tsoar,
+  A. (2008{\natexlab{b}}) {Mechanisms of long-distance seed dispersal}.
+  \emph{Trends In Ecology {\&} Evolution}, \textbf{23}(11), 638--647,
+  \doi{10.1016/j.tree.2008.08.003}.
+
+\bibitem[{P{\'e}rez-M{\'e}ndez \emph{et~al.}(2015)P{\'e}rez-M{\'e}ndez, Jordano
+  \& Valido}]{PerezMendez:2015hya}
+P{\'e}rez-M{\'e}ndez, N., Jordano, P. \& Valido, A. (2015) {Downsized
+  mutualisms: Consequences of seed dispersers{\textquoteright} body-size
+  reduction for early plant recruitment}. \emph{Perspectives In Plant Ecology
+  Evolution And Systematics}, \textbf{17}(2), 151--159,
+  \doi{10.1016/j.ppees.2014.12.001}.
+
+\bibitem[{P{\'e}rez-M{\'e}ndez \emph{et~al.}(2016)P{\'e}rez-M{\'e}ndez, Jordano
+  \& Valido}]{Perez-Mendez:2016dz}
+P{\'e}rez-M{\'e}ndez, N., Jordano, P. \& Valido, A. (2016) Persisting in
+  defaunated landscapes: reduced plant population connectivity after seed
+  dispersal collapse. \emph{In 2nd. review}.
+
+\bibitem[{Pratt(1984)}]{Pratt:1984ly}
+Pratt, T. (1984) {Examples of tropical frugivores defending fruit-bearing
+  plants}. \emph{Condor}, \textbf{86}, 123--129.
+
+\bibitem[{Pratt \& Stiles(1983)}]{Pratt:1983gf}
+Pratt, T. \& Stiles, E. (1983) {How long fruit-eating birds stay in the plants
+  where they feed - implications for seed dispersal}. \emph{The American
+  Naturalist}, \textbf{122}(6), 797--805.
+
+\bibitem[{Ronce(2007)}]{Ronce:2007hc}
+Ronce, O. (2007) {How does it feel to be like a rolling stone? Ten questions
+  about dispersal evolution}. \emph{Annual Review of Ecology Evolution and
+  Systematics}, \textbf{38}(1), 231--253,
+  \doi{10.1146/annurev.ecolsys.38.091206.095611}.
+
+\bibitem[{Rousset(1997)}]{Rousset:1997bd}
+Rousset, F. (1997) {Genetic differentiation and estimation of gene flow from
+  F-statistics under isolation by distance.} \emph{Genetics}, \textbf{145}(4),
+  1219--1228,
+  \doi{10.2307/40419201?ref=no-x-route:35b111e059d3f1727b77c9c51a9f7d0e}.
+
+\bibitem[{Schloss \emph{et~al.}(2012)Schloss, Nunez \& Lawler}]{Schloss:2012gt}
+Schloss, C.A., Nunez, T.A. \& Lawler, J.J. (2012) {Dispersal will limit ability
+  of mammals to track climate change in the Western Hemisphere}.
+  \emph{Proceedings of the National Academy of Sciences USA}, \textbf{109}(22),
+  8606--8611, \doi{10.1073/pnas.1116791109}.
+
+\bibitem[{Schupp(1995)}]{Schupp:1995}
+Schupp, E. (1995) Seed--seedling conflicts, habitat choice, and patterns of
+  plant recruitment. \emph{American Journal of Botany}, \textbf{82}, 399--409,
+  \doi{10.2307%2F2445586}.
+
+\bibitem[{Schurr \emph{et~al.}(2009)Schurr, Spiegel, Steinitz, Trakhtenbrot,
+  Tsoar \& Nathan}]{Schurr2009long}
+Schurr, F.M., Spiegel, O., Steinitz, O., Trakhtenbrot, A., Tsoar, A. \& Nathan,
+  R. (2009) Long-distance seed dispersal. \emph{Annual Plant Reviews},
+  \textbf{38}, 204--237.
+
+\bibitem[{Schurr \emph{et~al.}(2008)Schurr, Steinitz \& Nathan}]{Schurr:2008bd}
+Schurr, F.M., Steinitz, O. \& Nathan, R. (2008) {Plant fecundity and seed
+  dispersal in spatially heterogeneous environments: models, mechanisms and
+  estimation}. \emph{Journal of Ecology}, \textbf{96}(4), 628--641,
+  \doi{10.1111/j.1365-2745.2008.01371.x}.
+
+\bibitem[{Scofield \emph{et~al.}(2012)Scofield, Smouse, Karubian \&
+  Sork}]{Scofield:2012gk}
+Scofield, D.G., Smouse, P.E., Karubian, J. \& Sork, V.L. (2012) {Use of Alpha,
+  Beta, and Gamma Diversity Measures to Characterize Seed Dispersal by
+  Animals}. \emph{The American Naturalist}, \textbf{180}(6), 719--732,
+  \doi{10.1086/668202}.
+
+\bibitem[{Seidler \& Plotkin(2006)}]{Seidler:2006hx}
+Seidler, T.G. \& Plotkin, J.B. (2006) {Seed dispersal and spatial pattern in
+  tropical trees}. \emph{PLoS Biology}, \textbf{4}, 2132--2137,
+  \doi{10.1371/journal.pbio.0040344}.
+
+\bibitem[{Slatkin(1985)}]{Slatkin:1985qb}
+Slatkin, M. (1985) {Gene flow in natural populations}. \emph{Annual Review of
+  Ecology Evolution and Systematics}, \doi{10.2307/2097054}.
+
+\bibitem[{Smouse \emph{et~al.}(2001)Smouse, Dyer, Westfall \&
+  Sork}]{Smouse:2001aa}
+Smouse, P.E., Dyer, R.J., Westfall, R.D. \& Sork, V.L. (2001) {Two-generation
+  analysis of pollen flow across a landscape. I. Male gamete heterogeneity
+  among females}. \emph{Evolution}, \textbf{55}(2), 260--271.
+
+\bibitem[{Snow \& Snow(1984)}]{Snow:1984ul}
+Snow, B. \& Snow, D. (1984) {Long-term defence of fruit by mistle thrushes
+  Turdus viscivorus}. \emph{Ibis}, \textbf{126}, 39--49.
+
+\bibitem[{Snow \& Snow(1988)}]{Snow:1988ve}
+Snow, B. \& Snow, D. (1988) \emph{{Birds and berries}}. Poyser, Calton, UK.
+
+\bibitem[{Sork \emph{et~al.}(1999)Sork, Nason, Campbell \&
+  Fern{\'a}ndez}]{Sork:1999}
+Sork, V., Nason, J., Campbell, D. \& Fern{\'a}ndez, J. (1999) {Landscape
+  approaches to historical and contemporary gene flow in plants}. \emph{Trends
+  In Ecology {\&} Evolution}, \textbf{14}, 224--224.
+
+\bibitem[{Streiff \emph{et~al.}(1999)Streiff, Ducousso, Lexer, Steinkellner,
+  Gloessl \& Kremer}]{Streiff99}
+Streiff, R., Ducousso, A., Lexer, C., Steinkellner, H., Gloessl, J. \& Kremer,
+  A. (1999) {Pollen dispersal inferred from paternity analysis in a mixed oak
+  stand of Quercus robur L. and Q. petraea (Matt.) Liebl.} \emph{Molecular
+  Ecology}, \textbf{8}, 831--841.
+
+\bibitem[{Trakhtenbrot \emph{et~al.}(2005)Trakhtenbrot, Nathan, Perry \&
+  Richardson}]{Trakhtenbrot:2005ij}
+Trakhtenbrot, A., Nathan, R., Perry, G. \& Richardson, D. (2005) {The
+  importance of long-distance dispersal in biodiversity conservation}.
+  \emph{Diversity And Distributions}, \textbf{11}, 173--181,
+  \doi{10.1111/j.1366-9516.2005.00156.x}.
+
+\bibitem[{Traveset \emph{et~al.}(2012)Traveset, Gonz{\'a}lez-Varo \&
+  Valido}]{Traveset:2012he}
+Traveset, A., Gonz{\'a}lez-Varo, J.P. \& Valido, A. (2012) {Long-term
+  demographic consequences of a seed dispersal disruption}. \emph{Proceedings
+  Of The Royal Society B-Biological Sciences}, \doi{10.1098/rspb.2012.0535}.
+
+\bibitem[{Travis \emph{et~al.}(2013)Travis, Delgado, Bocedi, Baguette,
+  Barto{\'{n}}, Bonte, Boulangeat, Hodgson, Kubisch, Penteriani, Saastamoinen,
+  Stevens \& Bullock}]{Travis:2013en}
+Travis, J.M.J., Delgado, M., Bocedi, G., Baguette, M., Barto{\'{n}}, K., Bonte,
+  D., Boulangeat, I., Hodgson, J.A., Kubisch, A., Penteriani, V., Saastamoinen,
+  M., Stevens, V.M. \& Bullock, J.M. (2013) {Dispersal and
+  species{\textquoteright} responses to climate change}. \emph{Oikos},
+  \textbf{122}(11), 1532--1540, \doi{10.1111/j.1600-0706.2013.00399.x}.
+
+\bibitem[{Urban \& Keitt(2001)}]{Urban:2001}
+Urban, D. \& Keitt, T. (2001) {Landscape connectivity: a graph-theoretic
+  perspective}. \emph{Ecology}, \textbf{82}, 1205--1218.
+
+\bibitem[{vander Wall \& Longland(2004)}]{vanderWall:2004hv}
+vander Wall, S. \& Longland, W. (2004) {Diplochory: are two seed dispersers
+  better than one?} \emph{Trends In Ecology {\&} Evolution}, \textbf{19},
+  155--161, \doi{10.1016/j.tree.2003.12.004}.
+
+\bibitem[{Waples \& Gaggiotti(2006)}]{Waples:2006ev}
+Waples, R. \& Gaggiotti, O. (2006) {What is a population? An empirical
+  evaluation of some genetic methods for identifying the number of gene pools
+  and their degree of connectivity}. \emph{Molecular Ecology}, \textbf{15},
+  1419--1439, \doi{10.1111/j.1365-294X.2006.02890.x}.
+
+\bibitem[{Westcott \emph{et~al.}(2005)Westcott, Bentrupperbaumer, Bradford \&
+  McKeown}]{Westcott:2005}
+Westcott, D.A., Bentrupperbaumer, J., Bradford, M.G. \& McKeown, A. (2005)
+  {Incorporating patterns of disperser behaviour into models of seed dispersal
+  and its effects on estimated dispersal curves}. \emph{Oecologia},
+  \textbf{146}, 57--67.
+
+\bibitem[{Wheelwright(1991)}]{Wheelwright:1991qf}
+Wheelwright, N. (1991) {How long do fruit-eating birds stay in the plants where
+  they feed?} \emph{Biotropica}, \textbf{23}(1), 29--40.
+
+\bibitem[{Wright(1943)}]{Wright:1943aa}
+Wright, S. (1943) {Isolation by distance}. \emph{Genetics}, \textbf{28},
+  114--138.
+
+\bibitem[{Wright(1946)}]{Wright:1946aa}
+Wright, S. (1946) {Isolation by distance under diverse systems of mating}.
+  \emph{Genetics}, \textbf{31}, 39--59.
+
+\bibitem[{Wright(1969)}]{Wright:1969mb}
+Wright, S. (1969) \emph{{Evolution and the genetics of populations. Vol. 2: The
+  theory of gene frequencies}}. University of Chicago Press, Chicago, USA.
+
+\end{thebibliography}

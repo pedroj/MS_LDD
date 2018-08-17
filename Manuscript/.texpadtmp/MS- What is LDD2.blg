@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/pedro/Documents/Working/MS_JEcol-Special Issue/Manuscript/.texpadtmp/MS- What is LDD2.aux
+The style file: ../bes.bst
+Database file #1: ../MS_BES.bib
+Repeated entry---line 3143 of file ../MS_BES.bib
+ : @article{Scofield:2012gk
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Westcott:200"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--can't use both author and editor fields in Clobert:2012vw
+Warning--empty series in Jordano:2007a
+Warning--empty series in Jordano:2002tr
+Warning--empty series in Mallet:2001wx
+Warning--missing publisher in Mallet:2001wx
+Warning--empty series in Nathan:2002a
+You've used 76 entries,
+            3248 wiz_defined-function locations,
+            1241 strings with 22786 characters,
+and the built_in function-call counts, 51694 in all, are:
+= -- 4168
+> -- 2237
+< -- 40
++ -- 855
+- -- 778
+* -- 4296
+:= -- 7700
+add.period$ -- 156
+call.type$ -- 76
+change.case$ -- 632
+chr.to.int$ -- 81
+cite$ -- 82
+duplicate$ -- 3949
+empty$ -- 3945
+format.name$ -- 1006
+if$ -- 10175
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 870
+newline$ -- 238
+num.names$ -- 312
+pop$ -- 1668
+preamble$ -- 1
+purify$ -- 559
+quote$ -- 0
+skip$ -- 1168
+stack$ -- 0
+substring$ -- 2583
+swap$ -- 2194
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 669
+warning$ -- 6
+while$ -- 365
+width$ -- 0
+write$ -- 878
+(There was 1 error message)
